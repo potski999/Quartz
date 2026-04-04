@@ -149,7 +149,7 @@ tags:
 11.4 Radar, Detection Levels and Surface Combat
 11.5 Information given regarding Enemy LCU’s, Bases, and Minefields
 
-[[12.Command, Political Systems and Diplomacy]]
+[[12 Command, Political Systems and Diplomacy]]
 
 12.1 Changing Leaders
 12.1.1 Task Force Leaders

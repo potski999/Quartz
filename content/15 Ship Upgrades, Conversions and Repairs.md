@@ -1,6 +1,5 @@
-# 15 Ship Upgrades,
+# 15 Ship Upgrades, Conversions and Repairs
 
-Conversions and Repairs
 
 
 ### In this Chapter

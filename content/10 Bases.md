@@ -8,6 +8,7 @@ Bases, in War in Spain 1936-39, are what the entire game revolves around. Captur
 * [[10.2 Base Information]]
 * [[10.3 Base Symbols]]
 * [[10.4 Base Details]]
+* [[10.5 Ports]]
 * [[10.6 Airfields]]
 * [[10.7 Base Construction and Repair]]
 * [[10.8 The Hex Information Display]]
