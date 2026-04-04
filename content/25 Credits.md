@@ -1,6 +1,6 @@
 # 25 Credits
 
-Joint Warfare Simulations Development Team for War in Spain 1936-39
+Joint Warfare Simulations Development Team for *War in Spain 1936-39*
 
 PROJECT LEAD Joe Wilkerson – jwilkerson
 
@@ -16,9 +16,7 @@ LAND SUBJECT MATTER EXPERT Gert Heidelberg
 
 NAVAL SUBJECT MATTER EXPERT Deon Prins
 
-AIR SUBJECT MATTER EXPERT
-
-Damian Heywood
+AIR SUBJECT MATTER EXPERT Damian Heywood
 
 MANUALS Brian Doctor-btd64, Natalie Rose
 
@@ -38,9 +36,7 @@ ASSOCIATE PRODUCER Maxim Klose-Ivanov
 
 BRAND MANAGER Sofia Corona
 
-BETA TESTERS atheory, RangerJoe, LordSpain, Beckettc17, Peiper1944, M Peaston, CFab, potski, larryfulkerson, trooperrob, Arminio90, Asterix_von_ TWC, Edward75, NightTime977, GoodbyeBluesky, ewald, SpleenMcQueen, heartattack82, Flaurez, SlaySoft, cristianwj, daddywarlord, jbmoore68, JanSako, Liszek,
-
-MemoryLeak, ViperX, Shieldofzone, AlbertN, JonnyFloater, rockystone, DesertWolf101, asurob, sth0009, stadl0r, Don60420, jaj28, TTOKA, zhuangcheng, Aceford, SargeTheBold, fodesz75, Tector920, Clemena1, godream, gregb41352, dougmichel, cdcool, idefelipe, Carlosdeb, Jusepe131, BULLDOGINTHEUK, Zerosen4281857, jamielikesyou, ody81, Icechuck, TheIceKing1995, ADM Halsey, Odin1713, Riesgo, sfurr, Pegasi2, geneduffy777, chicho_elperro, bwheatley, TopGun1, dankhippos, Karolan
+BETA TESTERS atheory, RangerJoe, LordSpain, Beckettc17, Peiper1944, M Peaston, CFab, potski, larryfulkerson, trooperrob, Arminio90, Asterix_von_ TWC, Edward75, NightTime977, GoodbyeBluesky, ewald, SpleenMcQueen, heartattack82, Flaurez, SlaySoft, cristianwj, daddywarlord, jbmoore68, JanSako, Liszek, MemoryLeak, ViperX, Shieldofzone, AlbertN, JonnyFloater, rockystone, DesertWolf101, asurob, sth0009, stadl0r, Don60420, jaj28, TTOKA, zhuangcheng, Aceford, SargeTheBold, fodesz75, Tector920, Clemena1, godream, gregb41352, dougmichel, cdcool, idefelipe, Carlosdeb, Jusepe131, BULLDOGINTHEUK, Zerosen4281857, jamielikesyou, ody81, Icechuck, TheIceKing1995, ADM Halsey, Odin1713, Riesgo, sfurr, Pegasi2, geneduffy777, chicho_elperro, bwheatley, TopGun1, dankhippos, Karolan
 
 CEO Iain McNeil
 

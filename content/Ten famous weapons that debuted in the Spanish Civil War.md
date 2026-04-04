@@ -1,0 +1,41 @@
+### Ten famous weapons that debuted in the Spanish Civil War
+
+- **Polikarpov  I-15**:  Nicknamed  El  Chato  (The  Flat)  because  of  its flat nose. This soviet aircraft arrived in Spain as a prodigy of speed and height (it could fly between 300 and 450 meters above Italian and  Spanish  aircraft).  It  has  been  on  the  republican  side  since the first moments of the conflict and is used as a fighter, to strafe ground positions and to protect convoys.
+
+- **Polikarpov  I-16**:  Nicknamed  La  Mosca  (the  Fly)  because  of  its motor  noise.  Capable  of  reaching  great  speed  and  height,  it  is one of the first monoplane aircraft, a novelty in the aeronautical field. It also arrived at the beginning of the war and was used as a fighter throughout the war, where it participated in battles such as  Brunete  or  the  Ebro.  From  the  tests  in  Spain  with  the  I-16, the Soviet Union created a combat aircraft that it will use during World War II.
+
+- **Messerschmitt BF-109**: Nicknamed El Meser. It arrives with the Germans of the Condor Legion, who jealously guarded their most sophisticated aircraft for their pilots. It is one of the first modern fighters and arrives to combat the I-15 and I-16 of the republican side. At the beginning of 1937 it managed to match these planes in  speed,  although  not  in  height.  It  was  used  to  attack  ground positions and protect bombers. During the Spanish conflict it was greatly improved, and its subsequent versions would be the core of the German fighter force in World War II.
+
+- **Heinkel He 111**: Nicknamed Pedro (its code name). The He 111 is already a modern bomber. It has a capacity to carry bombs in much  higher  numbers  than  bombers  of  the  time  and  has  two engines and has sophisticated engineering for aircraft of the time. It has optical sights that improve aiming and is the first German aircraft to have a radio to communicate with the ground. It was perfected in the War in Spain 1936-39 and would later carry out some of the most destructive bombings of the Second World War, such as those bombings of Coventry and London. In Spain it was used to bomb cities and industrial complexes. In the bombing of Guernica, a raid was carried out only with this type of aircraft to better study the effects they caused.
+
+- **Tupolev ANT-40**: The Soviet Aircraft always had nicknames. This one  was  Katiuska.  It  is  the  first  soviet  high-speed  bomber  with high bomb-carrying capacity. It was used in bombings against the civilian population, such as that of Cabra (Córdoba), frequently described as the equivalent of Guernica on the opposing side. It would evolve and the Soviet Union would use it in World War II, being decisive in important battles, such as Stalingrad.
+
+- **Stuka (Junker Ju 87)**: Curiously... Not nicknamed. One of its kind with such precision and speed had never been seen before. This type of aircraft was launched towards the target and dropped the bomb with greater aim and closer to the ground than traditional bombers. It premiered in Spain, although very few arrived: these would participate in the Battle of Teruel or the advance towards Bilbao. With some modifications, it will be the most representative aircraft of the Germans in World War II.
+
+- **T-26**:  Nicknamed  Ruso  (Russian)  It  is  the  first  modern  tank. There are two aspects that stand out above other tanks of the time. It has a 37mm cannon, while the rest of these machines only had machine  guns.  The  second  aspect  is  a  medium  wave  radio  that every  fourth  T-26  carried,  to  transmit  and  receive  orders  from the command post. They were so sophisticated that, according to some sources, the nationalists offered a reward of 3,000 pesetas to anyone who captured one of these tanks. The T-26 stood out in the Battle of Brunete and then in the Ebro. With the experience they obtained, the Soviets designed the T-34 tank, which would be their main weapon in World War II.
+
+- **Panzer  I**:  Nicknamed  Negrillo  (the  little  black).  The  Germans realize that their tank needs a cannon and modify the design of the Panzer I to include it. This tank participated in the Battle of Jarama, Brunete and also in the Ebro.
+
+- **88  Flak**:  Nicknamed  Flaco  (skinny).  It  is  a  German  made anti-aircraft  cannon,  the  first  rapid-fire  gun  that  has  an electromechanical  direction  of  fire  to  more  reliably  predict  the trajectory of the projectile. In Spain it was used in the air bases of the Condor Legion and, based on these tests, it was modified to improve the cannon and the direction of fire. In World War II it will be the German antiaircraft weapon par excellence.
+
+- **Do  17**:  nicknamed  Bacalao  (cod).  They  were  sent  in  the  spring of 1937 to the Condor Legion and replaced the Heinkel He 70F- 2,  which  passed  into  the  hands  of  the  Spanish.  The  new  planes demonstrate their ability to evade the republican fighters in terms of speed and the Do 17E-1 bombers begin to arrive, 20 in number, according  to  some  authors,  are  integrated  into  the  bombing squadrons of the Condor Legion.
+
+- **Trubia  Tanks  (Made  in  Spain)**:  Why  didn’t  Spain  build  tanks? It  was  a  country  that  built  cars,  trucks,  cannons,  and  even submarines.  Of  course,  most  were  foreign  models  modified with  permission,  but  they  were  built  in  Spanish  factories  and shipyards. Why not a tank? Well... Spain wanted to build a tank since  the  1920s.  There  were  several  projects,  but  it  wasn’t  until the  1930s  that  the  republican  government  decided  on  a  light tank, appropriate for the Spanish terrain... and they created this monster, the Trubia:
+
+But when the war began, in the metal factories of Bilbao, they decided to improve it. They created this little monster...
+
+Below is the “Trubia Naval” model which has 2 guns.
+
+The production was higher, as you can see….
+
+Here’s  a  Trubia  Naval  being  tested.  In  the  background,  the  Bilbao factories.
+
+In  August  1936,  Captain  Ignacio  Cuartero  arrived  in  Bilbao  from the Trubia factory. After being impressed by the incredible production facilities in the area, Cuartero suggested producing a tank to reinforce the  ranks  of  the  Northern  Army.  The  project  was  approved,  and Cuartero traveled to Trubia to learn about previous designs and build a tank based on them. The choice was the Trubia Model 1936, or Trubia Naval (named after the factory where it was built).
+
+The design of the new tank was based on the Trubia plans but was adapted to the material limitations of the war; for example, the engine installed depended on what was available at the time of production. The cannon  was  replaced  with  7.62  mm  machine  guns  on  the  first  tanks. Other minor changes were made, such as modifications to the exit hatch and modifications to the radiator grille.
+
+Serial  production  began  at  the  Naval  Factory  (Bilbao).  The  total number  of  units  built  is  unknown,  as  the  relevant  official  documents have  been  lost,  but  it  is  estimated  to  have  been  between  30  and  45 tanks. Not all tanks were the same, as they were modified depending on availability. A few units were equipped with 7.7 mm Lewis machine guns. The final Trubia-Naval units were fitted with 45 mm cannons to augment their poor firepower against armored vehicles.
+
+Armor  also  varied  over  time.  Early  units  used  10  to  20  mm  steel plates. In final production, the plate thickness ranged from 15 mm to a maximum of 57 mm. This thickness gave the  tank  good  protection against anti-tank shells.
+
+Its crew consisted of three men, and its weight ranged from 8 to 10 tons. Its dimensions were 3.5 meters long, 1.70 meters wide, and 1.85 meters high.

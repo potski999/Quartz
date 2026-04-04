@@ -1,6 +1,6 @@
 # 6 Naval Units
 
-Naval units. They took on a wide array of Missions that were as diverse as the tasks they were built for; from the largest battleship to the smallest PT boat, each served a purpose, and each contributed their part to the war effort.
+They took on a wide array of Missions that were as diverse as the tasks they were built for; from the largest battleship to the smallest PT boat, each served a purpose, and each contributed their part to the war effort.
 
 
 ### In this Chapter
@@ -18,8 +18,8 @@ Naval units. They took on a wide array of Missions that were as diverse as the t
 * [[6.12 Shakedown Cruises]]
 * [[6.13 Naval Combat]]
 * [[6.14 Damage to Ships]]
-* [[6.15 Mine Laying Task Forces and]]
-* [[6.16 Creating PT Boats, Motor]]
-* [[6.17 Coastal Guns and Passing]]
+* [[6.15 Mine Laying Task Forces and Mine Warfare]]
+* [[6.16 Creating PT Boats Etc|6.16 Creating PT Boats, Motor Gunboats, Midget Subs and Barges]]
+* [[6.17 Coastal Guns and Passing Task Forces]]
 * [[6.18 Withdrawal and Return of Ships]]
-* [[6.19 Special Coast Defense]]
+* [[6.19 Special Coast Defense Convoy Units]]

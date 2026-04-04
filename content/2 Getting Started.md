@@ -6,7 +6,6 @@ The major nations in War in Spain 1936-39 are:
 **Nationalist**: Germany, Italy and Nationalist Spain 
 **Republicans**: USSR, Republican Spain and Republic of the North
 
-
 ### In this Chapter
 * [[2.1 Interface]]
 * [[2.2 Main Game Menu]]

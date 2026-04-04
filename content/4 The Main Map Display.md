@@ -2,17 +2,11 @@
 
 The Main Map Display is composed of:
 
-- The Menu Bar – Runs along the top of the screen. See [[4.1 The Menu Bar|section 4.1]]. - The  Tactical  Map  –  Makes  up  most  of  the  main  screen.  See
+- The Menu Bar – Runs along the top of the screen. See [[4.1 The Menu Bar|section 4.1]]. - The  Tactical  Map  –  Makes  up  most  of  the  main  screen.  See [[4.2 The Tactical Map|section 4.2]].
 
-[[4.2 The Tactical Map|section 4.2]].
+- The Hex Command Display – Runs below the tactical map and to the left of the jump map. See [[4.3 Hex Information Display|section 4.3]].
 
-- The Hex Command Display – Runs below the tactical map and to
-
-the left of the jump map. See [[4.3 Hex Information Display|section 4.3]].
-
-- The Jump Map – Is below the tactical map and to the right of the
-
-hex command display. See [[4.4 Jump Map|section 4.4]].
+- The Jump Map – Is below the tactical map and to the right of the hex command display. See [[4.4 Jump Map|section 4.4]].
 
 From  the  Main  Map  Display  the  player  issues  orders  to  his  units, undertakes logistical tasks and accesses various information screens.
 
