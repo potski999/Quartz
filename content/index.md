@@ -2,7 +2,7 @@
 title: Welcome to Quartz
 ---
 
-# War in Spain 1936-39 Manual
+# *War in Spain 1936-39* Manual
 
  [[1 Introduction]]
  [[2 Getting Started]]
