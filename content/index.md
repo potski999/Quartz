@@ -1,5 +1,4 @@
----
-title: Welcome to War in Spain
+--- title: Welcome to War in Spain
 ---
 
 

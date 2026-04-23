@@ -1,6 +1,5 @@
 ---
-Created: " 2026-03-28"
-aliases:
+Created: " 2026-03-28" aliases:
 tags:
   - WIS
   - "#Manual"
@@ -77,8 +76,8 @@ tags:
 8.4 Ground Unit Movement
 8.4.1 Overland Movement (Not Strategic Movement)
 8.4.2 Movement along Railway Lines
-8.4.3 Zones of Control (ZoC) and the Effects on Movement  262
-8.4.4 Land Movement Between the Map and Off Map Areas  264
+8.4.3 Zones of Control (ZoC) and the Effects on Movement 262
+8.4.4 Land Movement Between the Map and Off Map Areas 264
 8.4.5 Transporting Ground Units
 
 8.5 Counter Invasion Forces
