@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Wiki Formatting & Interactivity Plan (Phase 2)
 
 Based on your requirement to transform the split Markdown files into a professional, web-ready Wiki format without losing the original manual's context, here is the technical plan for Phase 2.

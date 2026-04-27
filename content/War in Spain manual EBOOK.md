@@ -1,3 +1,8 @@
+---
+draft: true
+---
+
+
 GAME MANUAL
 
 Contents
