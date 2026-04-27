@@ -1,3 +1,6 @@
+---
+draft: true
+---
 # Broken Sentence Fixes Log
 
 | File Name | Original Sentence | Corrected Sentence |
