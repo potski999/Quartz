@@ -1,3 +1,7 @@
+---
+title: War in Spain Manual
+---
+
 # *War in Spain 1936-39* Manual
 
 [[1 Introduction]]  
