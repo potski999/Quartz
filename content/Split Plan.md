@@ -1,3 +1,7 @@
+﻿---
+draft: true
+---
+
 # Markdown Manual Split Methodology
 
 Based on your requirements and the structure of the master document, here is the detailed technical plan for parsing, cleaning, and splitting the `War in Spain manual EBOOK.md` file using a Python script.

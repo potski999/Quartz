@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 7 Air Units
 
 Aircraft are not represented on the map as such but rather are always located on airfields or ships.  The type of aircraft in the units are differentiated graphically.  During the Air Movement/Combat phases, a line depicting the path of the aircraft may be shown between the base and the target hex. Any actions taken by the air units, as well as losses, will show up on the Combat Events screen.  Furthermore, individual pilots are rated for Experience and Fatigue.

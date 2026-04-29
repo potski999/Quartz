@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 23 References
 
 The Spanish Civil War, Hugh Thomas The Spanish Civil War, Stanley G. Payne The Battle for Spain, Anthony Beevor Spanish Civil War Air Forces, Christopher Shores Air War over Spain, Rafael A. Permuy Lopez Historia General de la guerra de España, Ramón y Jesús María Salas
@@ -23,4 +27,4 @@ Valencia, Ebro), ed. Desperta Ferro
 
 ***
 > [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **423** of the original PDF EBOOK.
+> Content in this section was sourced from page(s) **423** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

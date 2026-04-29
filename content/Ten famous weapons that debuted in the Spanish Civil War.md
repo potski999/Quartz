@@ -1,4 +1,4 @@
-### Ten famous weapons that debuted in the Spanish Civil War
+﻿### Ten famous weapons that debuted in the Spanish Civil War
 
 - **Polikarpov I-15**: Nicknamed El Chato (The Flat) because of its flat nose. This soviet aircraft arrived in Spain as a prodigy of speed and height (it could fly between 300 and 450 meters above Italian and Spanish aircraft).  It has been on the republican side since the first moments of the conflict and is used as a fighter, to strafe ground positions and to protect convoys.
 
@@ -18,7 +18,7 @@
 
 - **88 Flak**: Nicknamed Flaco (skinny).  It is a German made anti-aircraft cannon, the first rapid-fire gun that has an electromechanical direction of fire to more reliably predict the trajectory of the projectile. In Spain it was used in the air bases of the Condor Legion and, based on these tests, it was modified to improve the cannon and the direction of fire. In World War II it will be the German antiaircraft weapon par excellence.
 
-- **Do 17**: nicknamed Bacalao (cod).  They were sent in the spring of 1937 to the Condor Legion and replaced the Heinkel He 70F- 2, which passed into the hands of the Spanish.  The new planes demonstrate their ability to evade the republican fighters in terms of speed and the Do 17E-1 bombers begin to arrive, 20 in number, according to some authors, are integrated into the bombing squadrons of the Condor Legion.
+- **Do 17**: nicknamed Bacalao (cod).  **They were sent in the spring of 1937 to the Condor Legion and replaced the Heinkel He 70F** - 2, which passed into the hands of the Spanish.  The new planes demonstrate their ability to evade the republican fighters in terms of speed and the Do 17E-1 bombers begin to arrive, 20 in number, according to some authors, are integrated into the bombing squadrons of the Condor Legion.
 
 - **Trubia Tanks (Made in Spain)**: Why didn’t Spain build tanks? It was a country that built cars, trucks, cannons, and even submarines.  Of course, most were foreign models modified with permission, but they were built in Spanish factories and shipyards. Why not a tank? Well... Spain wanted to build a tank since the 1920s.  There were several projects, but it wasn’t until the 1930s that the republican government decided on a light tank, appropriate for the Spanish terrain... and they created this monster, the Trubia:
 

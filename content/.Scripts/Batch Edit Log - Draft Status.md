@@ -1,0 +1,213 @@
+﻿# Batch Edit Log: Draft Status Frontmatter
+**Date:** 2026-04-29
+**Description:** Added draft status frontmatter based on folder and filename rules.
+
+## Files Modified:
+- 00 War in Spain Manual.md -> draft: false
+- 1 Introduction.md -> draft: false
+- 10 Bases.md -> draft: false
+- 11 Detection and Spotting of Units.md -> draft: false
+- 12 Command, Political Systems and Diplomacy.md -> draft: false
+- 13 Weather.md -> draft: false
+- 14 Production.md -> draft: false
+- 15 Ship Upgrades, Conversions and Repairs.md -> draft: false
+- 16 Reinforcements.md -> draft: false
+- 17 Victory Conditions.md -> draft: false
+- 18 Unit Withdrawals Disband.md -> draft: false
+- 19 Special Rules.md -> draft: false
+- 2 Getting Started.md -> draft: false
+- 20 Notes on Combat.md -> draft: false
+- 21 Appendices.md -> draft: false
+- 22 Designers Notes.md -> draft: false
+- 23 References.md -> draft: false
+- 24 Piteas’s Historical Stories and Information.md -> draft: false
+- 25 Credits.md -> draft: false
+- 3 Game Modes and the Sequence of Play.md -> draft: false
+- 4 The Main Map Display.md -> draft: false
+- 5 Overview Report for Nations Screen.md -> draft: false
+- 6 Naval Units.md -> draft: false
+- 7 Air Units.md -> draft: false
+- 8 Ground Units.md -> draft: false
+- 9 Logistics and Supply.md -> draft: false
+- Split Plan.md -> draft: true
+- .Scripts\Batch Edit Log - Note Formatting.md -> draft: true
+- .Scripts\Batch Edit Log - Source References.md -> draft: true
+- 1 Introduction\1.1 New Game Engine.md -> draft: false
+- 1 Introduction\1.10 Technical Support.md -> draft: false
+- 1 Introduction\1.2 Game Manual.md -> draft: false
+- 1 Introduction\1.3 Editor Manual.md -> draft: false
+- 1 Introduction\1.4 Installation.md -> draft: false
+- 1 Introduction\1.5 Uninstalling the Game.md -> draft: false
+- 1 Introduction\1.6 Product Updates.md -> draft: false
+- 1 Introduction\1.7 Register Your Game, Re-Download.md -> draft: false
+- 1 Introduction\1.8 Unified Login System.md -> draft: false
+- 1 Introduction\1.9 Game Forums.md -> draft: false
+- 2 Getting Started\2.1 Interface.md -> draft: false
+- 2 Getting Started\2.2 Main Game Menu.md -> draft: false
+- 2 Getting Started\2.2.1 Game Play Options.md -> draft: false
+- 2 Getting Started\2.2.2 Preferences Screen.md -> draft: false
+- 2 Getting Started\2.2.2.1 General Game Rule Settings (Preferences).md -> draft: false
+- 2 Getting Started\2.2.2.1.1 Advanced Preferences Screen.md -> draft: false
+- 2 Getting Started\2.2.3 Scenario Editor.md -> draft: false
+- 2 Getting Started\2.2.4 Scenario Selection.md -> draft: false
+- 2 Getting Started\2.2.5 Loading a Save Game.md -> draft: false
+- 2 Getting Started\2.3 Begin a New Game.md -> draft: false
+- 2 Getting Started\2.3.1 Tutorial Scenario.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.1 AI Games.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.2 PBEM Games.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.2.1 PBEM Sequence of Play.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.3 WEGO Team Games.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.3.1 WEGO Team Games Setup.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.3.1.1 Master Player.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.3.1.2 WEGO Setup.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.3.1.3 WEGO Sequence of Play.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.4 Key code.md -> draft: false
+- 3 Game Modes and the Sequence of Play\3.5 Head-to-Head Games.md -> draft: false
+- 4 The Main Map Display\4.1 The Menu Bar.md -> draft: false
+- 4 The Main Map Display\4.2 The Tactical Map.md -> draft: false
+- 4 The Main Map Display\4.2.1 Terrain.md -> draft: false
+- 4 The Main Map Display\4.2.1.1 Hex Terrain Types.md -> draft: false
+- 4 The Main Map Display\4.2.1.2 Hex Side Types.md -> draft: false
+- 4 The Main Map Display\4.2.1.2.1 Movement through Hex Sides.md -> draft: false
+- 4 The Main Map Display\4.2.1.3 Land Transportation Links.md -> draft: false
+- 4 The Main Map Display\4.2.1.4 Maritime Transportation Links.md -> draft: false
+- 4 The Main Map Display\4.2.1.5 The Straits of Gibraltar.md -> draft: false
+- 4 The Main Map Display\4.2.1.6 Off Map Maritime Transport Links.md -> draft: false
+- 4 The Main Map Display\4.2.2 Tactical Map Icons.md -> draft: false
+- 4 The Main Map Display\4.2.3 Off Map Bases and Ocean Links.md -> draft: false
+- 4 The Main Map Display\4.3 Hex Information Display.md -> draft: false
+- 4 The Main Map Display\4.4 Jump Map.md -> draft: false
+- 4 The Main Map Display\4.5 Mouse Over.md -> draft: false
+- 4 The Main Map Display\4.5.1 Base Icon Display.md -> draft: false
+- 4 The Main Map Display\4.5.2 Mouse Over Information of Land Combat Unit.md -> draft: false
+- 4 The Main Map Display\4.5.3 Airfield Icon.md -> draft: false
+- 4 The Main Map Display\4.5.4 Anchored Ships Icon.md -> draft: false
+- 4 The Main Map Display\4.5.5 Task Force Icon.md -> draft: false
+- 4 The Main Map Display\4.5.5.1 Enemy Task Force Icon.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1 Overview Report for Nations Screen in Detail.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.1 Pick Nation.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.10 Politics.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.11 Pilot Replacements.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.12 Ships Sunk.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.13 Ship Availability.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.14 Group Reinforcement Schedule.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.15 LCU Reinforcement Schedule.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.16 Device Pool.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.17 Research and Development.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.18 Aircraft Production Pool.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.19 Aircraft Lost.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.2 Loss of Life Value.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.2.1 Loss Tolerance.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.2.2 Loss Tolerance Penalty Levels.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.3 Aircraft Production Etc.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.4 Replace all Ship Captains with Adequate Captains.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.5 Swap Shipboard Pilots with better LBA Pilots.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.6 Load First Turn Setup.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.7 Save As First Turn Setup.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.8 Recall Destroyed LCU’s.md -> draft: false
+- 5 Overview Report for Nations Screen\5.1.9 Commerce Action.md -> draft: false
+- 6 Naval Units\6.1 Task Forces and Ships.md -> draft: false
+- 6 Naval Units\6.1.1 Task Force Symbols.md -> draft: false
+- 6 Naval Units\6.1.1.1 Task Force Missions.md -> draft: false
+- 6 Naval Units\6.1.2 Task Force Information Screen.md -> draft: false
+- 6 Naval Units\6.1.2.1 Set TF Destination.md -> draft: false
+- 6 Naval Units\6.1.2.2 Set TF Routing.md -> draft: false
+- 6 Naval Units\6.1.2.2.1 Follow and Meet TF.md -> draft: false
+- 6 Naval Units\6.1.2.2.1.1 Follow TF.md -> draft: false
+- 6 Naval Units\6.1.2.2.1.2 Meet TF.md -> draft: false
+- 6 Naval Units\6.1.2.2.2 Use Waypoints.md -> draft: false
+- 6 Naval Units\6.1.2.2.3 Set Patrol Zone.md -> draft: false
+- 6 Naval Units\6.1.2.2.3.1 Set Boundary.md -> draft: false
+- 6 Naval Units\6.1.2.2.3.2 Patrol Around Target.md -> draft: false
+- 6 Naval Units\6.1.2.2.4 Routing Control.md -> draft: false
+- 6 Naval Units\6.1.2.2.5 Threat Tolerance.md -> draft: false
+- 6 Naval Units\6.1.2.2.6 Trade and Cargo Routes (Auto-Convoys).md -> draft: false
+- 6 Naval Units\6.1.2.3 Set Home Port.md -> draft: false
+- 6 Naval Units\6.1.3 Ship Information Screen.md -> draft: false
+- 6 Naval Units\6.1.3.1 Upgrades and Conversions.md -> draft: false
+- 6 Naval Units\6.1.3.1.1 Upgrades Conversions Damage and Requirements.md -> draft: false
+- 6 Naval Units\6.10 Naval Ammunition and Retreat.md -> draft: false
+- 6 Naval Units\6.11 Task Force Officers.md -> draft: false
+- 6 Naval Units\6.12 Shakedown Cruises.md -> draft: false
+- 6 Naval Units\6.13 Naval Combat.md -> draft: false
+- 6 Naval Units\6.13.1 Surface Combat.md -> draft: false
+- 6 Naval Units\6.13.2 The Flag Bridge.md -> draft: false
+- 6 Naval Units\6.13.3 Tactical Combat Map.md -> draft: false
+- 6 Naval Units\6.13.4 Naval Combat Animations.md -> draft: false
+- 6 Naval Units\6.13.5 Ship-to-Shore Bombardment.md -> draft: false
+- 6 Naval Units\6.13.6 Submarine Warfare.md -> draft: false
+- 6 Naval Units\6.13.6.1 Torpedo Supply.md -> draft: false
+- 6 Naval Units\6.13.6.2 Submarine vs. Surface.md -> draft: false
+- 6 Naval Units\6.13.6.3 Sub vs Sub Combat.md -> draft: false
+- 6 Naval Units\6.13.6.4 Torpedo Duds.md -> draft: false
+- 6 Naval Units\6.14 Damage to Ships.md -> draft: false
+- 6 Naval Units\6.14.1 Sub-System Damage.md -> draft: false
+- 6 Naval Units\6.14.2 Operational Damage and Repairs at Sea.md -> draft: false
+- 6 Naval Units\6.15 Mine Laying Task Forces and Mine Warfare.md -> draft: false
+- 6 Naval Units\6.15.1 Mine Laying.md -> draft: false
+- 6 Naval Units\6.15.2 Minefield Maintenance.md -> draft: false
+- 6 Naval Units\6.15.2.1 Minefield Decay.md -> draft: false
+- 6 Naval Units\6.15.2.2 Minefield Tenders.md -> draft: false
+- 6 Naval Units\6.15.3 Minelaying Ships.md -> draft: false
+- 6 Naval Units\6.15.3.1 Minelayers.md -> draft: false
+- 6 Naval Units\6.15.3.2 Special Minelayers.md -> draft: false
+- 6 Naval Units\6.15.3.2.1 Sub Minelayers.md -> draft: false
+- 6 Naval Units\6.15.3.2.2 Auxiliary Minelayers.md -> draft: false
+- 6 Naval Units\6.15.4 Mine Rearming.md -> draft: false
+- 6 Naval Units\6.15.5 Minesweeping.md -> draft: false
+- 6 Naval Units\6.15.5.1 Minesweeping TF Creation.md -> draft: false
+- 6 Naval Units\6.15.5.2 Minesweeping.md -> draft: false
+- 6 Naval Units\6.15.5.3 Local Minesweeping.md -> draft: false
+- 6 Naval Units\6.15.6 Mine Warfare Ship Classes Table.md -> draft: false
+- 6 Naval Units\6.15.7 Mine Types.md -> draft: false
+- 6 Naval Units\6.16 Creating PT Boats Etc.md -> draft: false
+- 6 Naval Units\6.17 Coastal Guns and Passing Task Forces.md -> draft: false
+- 6 Naval Units\6.18 Withdrawal and Return of Ships.md -> draft: false
+- 6 Naval Units\6.19 Special Coast Defense Convoy Units.md -> draft: false
+- 6 Naval Units\6.2 Creating a Task Force.md -> draft: false
+- 6 Naval Units\6.2.1 Task Force Formations.md -> draft: false
+- 6 Naval Units\6.2.10 TF Returning to Home Base.md -> draft: false
+- 6 Naval Units\6.2.2 Disbanding Task Forces.md -> draft: false
+- 6 Naval Units\6.2.3 Task Force Speed.md -> draft: false
+- 6 Naval Units\6.2.4 Automatic Ship Separation from TF Etc.md -> draft: false
+- 6 Naval Units\6.2.5 Patrol Retreat Max React Range Etc.md -> draft: false
+- 6 Naval Units\6.2.6 Mission Types and their Impact on Movement.md -> draft: false
+- 6 Naval Units\6.2.7 Assigning TF Destinations.md -> draft: false
+- 6 Naval Units\6.2.7.1 Follow Task Force.md -> draft: false
+- 6 Naval Units\6.2.7.2 Meet Task Force.md -> draft: false
+- 6 Naval Units\6.2.8 Set Patrol Zone.md -> draft: false
+- 6 Naval Units\6.2.9 Transferring Ships Between Task Forces.md -> draft: false
+- 6 Naval Units\6.3 TF Off-Map Movement.md -> draft: false
+- 6 Naval Units\6.3.1 Naval Movement from Main Map.md -> draft: false
+- 6 Naval Units\6.3.2 Naval Movement from Off-Map Area.md -> draft: false
+- 6 Naval Units\6.3.3 Naval Movement Between Connected Off-Map Areas.md -> draft: false
+- 6 Naval Units\6.4 Submarines.md -> draft: false
+- 6 Naval Units\6.5 Ship Endurance.md -> draft: false
+- 6 Naval Units\6.5.1 Refueling in Port and at Sea.md -> draft: false
+- 6 Naval Units\6.6 Operation Points.md -> draft: false
+- 6 Naval Units\6.7 Docking.md -> draft: false
+- 6 Naval Units\6.7.1 Task Force Docking Restrictions.md -> draft: false
+- 6 Naval Units\6.7.2 Cargo Transfer Rate.md -> draft: false
+- 6 Naval Units\6.7.3 Port Information Screen.md -> draft: false
+- 6 Naval Units\6.8 Task Force Loading.md -> draft: false
+- 6 Naval Units\6.8.1 Loading Men and Materials.md -> draft: false
+- 6 Naval Units\6.8.1.1 Load Types.md -> draft: false
+- 6 Naval Units\6.8.2 Ship Capacity Types.md -> draft: false
+- 6 Naval Units\6.8.2.1 Capacity Usage.md -> draft: false
+- 6 Naval Units\6.8.2.2 Ship Type.md -> draft: false
+- 6 Naval Units\6.8.3 Cross-Load Adjustments and Daily Fatigue.md -> draft: false
+- 6 Naval Units\6.8.3.1 Troops in Cargo Space.md -> draft: false
+- 6 Naval Units\6.8.3.2 Daily Fatigue.md -> draft: false
+- 6 Naval Units\6.8.3.3 Unload Damage.md -> draft: false
+- 6 Naval Units\6.9 Task Force Loading Procedure.md -> draft: false
+- 6 Naval Units\6.9.1 Load Procedure.md -> draft: false
+- 6 Naval Units\6.9.2 Loading Units.md -> draft: false
+- 6 Naval Units\6.9.2.1 Normal Load.md -> draft: false
+- 6 Naval Units\6.9.2.2 Load using Minimum Ships.md -> draft: false
+- 6 Naval Units\6.9.2.3. Device Load Rate.md -> draft: false
+- 6 Naval Units\6.9.2.4 Ship Load Ability.md -> draft: false
+- 6 Naval Units\6.9.2.5 Port Load Rate Adjustments.md -> draft: false
+- 6 Naval Units\6.9.2.6 Amphibious Loading.md -> draft: false
+- 6 Naval Units\6.9.3 Task Force Unloading.md -> draft: false
+- 6 Naval Units\6.9.3.1 Normal Unloading.md -> draft: false
+- 6 Naval Units\6.9.3.2 Amphibious Unloading.md -> draft: false

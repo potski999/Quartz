@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 13 Weather
 
 War in Spain 1936-39 has a meteorologic weather system.  The equatorial and north pole positions are defined in the scenario, and the temperature and light conditions are calculated from the position on map and the time of the year.

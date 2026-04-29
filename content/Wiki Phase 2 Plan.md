@@ -34,7 +34,7 @@ As the python script reads a section and builds the file, it will quietly track 
 ```markdown
 ***
 > [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **22, 23** of the original War in Spain EBOOK.
+> Content in this section was sourced from page(s) **22, 23** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].
 ```
 
 **Why this works:** 

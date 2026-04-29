@@ -1,5 +1,6 @@
----
+﻿---
 title: War in Spain Manual
+draft: false
 ---
 
 # *War in Spain 1936-39* Manual

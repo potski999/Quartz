@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 8 Ground Units
 
 Ground units may move overland, be transported by sea or by air. Parachute units can be airdropped onto enemy bases. Ground units can entrench in place and build forts to increase their defensive abilities. Combat units may assault enemy ground units and, in this way, capture enemy bases or positions.

@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 6 Naval Units
 
 They took on a wide array of Missions that were as diverse as the tasks they were built for; from the largest battleship to the smallest PT boat, each served a purpose, and each contributed their part to the war effort.

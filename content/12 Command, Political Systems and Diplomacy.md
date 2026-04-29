@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 ## 12 Command, Political Systems and Diplomacy
 
 ### In this Chapter  

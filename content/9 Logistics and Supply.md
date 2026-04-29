@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 9 Logistics and Supply
 
 Logistics and Supply transfer in War in Spain 1936-39 is crucial and is the means to provide Beans, Bullets, and Bandages to your troops. Failure to have a good Logistics and Supply Train could spell the end of a good offence or defense.

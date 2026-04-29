@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 10 Bases
 
 Bases, in War in Spain 1936-39, are what the entire game revolves around. Capturing or defending them is a big part of determining who will be the victor. Suppressing their Function is also a big part of the game. This would include airfield, port, industrial, logistics and resource targets. Defending these bases from Bombing is very important for less obvious reasons. Also, casualties of the Civilian population, at these bases, can negatively impact your ability to wage war.

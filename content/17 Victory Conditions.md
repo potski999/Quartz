@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 17 Victory Conditions
 
 Throughout the game, both sides are scoring victory points (VP’s). VP’s are gained and lost as units are destroyed. At the end of the game, these points are totaled along with the points for bases controlled by either side, and these points are then compared to determine which side has won. Points are awarded in the following ways:
@@ -16,13 +20,13 @@ Ships Sunk. The VP’s for sinking a ship depends on the tonnage of the ship:
 
 Barges are worth zero VP’s.
 
-Note: Damage to ships causes “Loss of Life”.  If you scuttle a damaged ship, you will lose the VP but save the lives of the crew.
+>Note: Damage to ships causes “Loss of Life”.  If you scuttle a damaged ship, you will lose the VP but save the lives of the crew.
 
 A couple more points:
 
-- Damaged ships – Ship that take damage also instantly generate VP from casualties among the crew. These are normally 50% of the VP for sinking a ship, scaled to system damage taken. Damage worth 50% system damage would thus create VP worth 5% of the ship tonnage for military ships. Since ships can be repaired, it is possible to generate a lot of VP’s by repeatedly damaging ships over the course of the game.
+- **Damaged ships** – Ship that take damage also instantly generate VP from casualties among the crew. These are normally 50% of the VP for sinking a ship, scaled to system damage taken. Damage worth 50% system damage would thus create VP worth 5% of the ship tonnage for military ships. Since ships can be repaired, it is possible to generate a lot of VP’s by repeatedly damaging ships over the course of the game.
 
-- Control of Base – Each base has a basic VP percentage for Republican ownership and one for Nationalist ownership.  The value of any base depends on the existent facilities and industry. The value of a Base can go up or down when facilities and industry are built or destroyed. This value is taken as the basis on which the VP percentage is applied to.  A base may be worth different percentages of the value for either side.  Palma would not be valuable to the Nationalists, but very valuable to the Republicans.
+- **Control of Base** – Each base has a basic VP percentage for Republican ownership and one for Nationalist ownership.  The value of any base depends on the existent facilities and industry. The value of a Base can go up or down when facilities and industry are built or destroyed. This value is taken as the basis on which the VP percentage is applied to.  A base may be worth different percentages of the value for either side.  Palma would not be valuable to the Nationalists, but very valuable to the Republicans.
 
 The basic VP percentage and final VP value for each side are displayed for each base when the mouse cursor is placed over a base (the basic VP percentage value is in parenthesis).
 
@@ -37,4 +41,4 @@ The true score is hidden from all players until the end of the game.
 
 ***
 > [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **388** of the original PDF EBOOK.
+> Content in this section was sourced from page(s) **388** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

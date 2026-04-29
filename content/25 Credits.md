@@ -1,14 +1,18 @@
+﻿---
+draft: false
+---
+
 # 25 Credits
 
 Joint Warfare Simulations Development Team for *War in Spain 1936-39*
 
-PROJECT LEAD Joe Wilkerson – jwilkerson
+**PROJECT LEAD Joe Wilkerson** – jwilkerson
 
-TECHNICAL TEAM LEAD Alessandro Seibol – Alessandro S
+**TECHNICAL TEAM LEAD Alessandro Seibol** – Alessandro S
 
 TECHNICAL TEAM MEMBER Bill Olson
 
-GAME DESIGNER Alex Carneiro – Piteas
+**GAME DESIGNER Alex Carneiro** – Piteas
 
 GAME DESIGNER EMERITUS Dali Vostrez
 
@@ -103,4 +107,4 @@ WEB DEVELOPMENT Valery Vidershpan, Andrea Nicola, Fernando Turi, Yurii Shmelev, 
 
 ***
 > [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **440, 441** of the original PDF EBOOK.
+> Content in this section was sourced from page(s) **440, 441** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

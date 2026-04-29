@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 1 Introduction
 
 War in Spain 1936-39 is a game where players may choose to direct the Republicans or Nationalists war efforts in one of several smaller scenarios that cover a portion of the war, or you may choose the campaign scenario that encompass the War in Spain from 17 July 1936 to 1 April 1939. Although there is a scenario that runs until the beginning of September 1939.
@@ -21,4 +25,4 @@ A famous radio message (for Spaniards):
 
 ***
 > [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **17, 18, 19, 20** of the original PDF EBOOK.
+> Content in this section was sourced from page(s) **17, 18, 19, 20** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

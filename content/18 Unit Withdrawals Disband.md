@@ -1,4 +1,8 @@
-# 18 Unit Withdrawals/Disband
+﻿---
+title: 18 Unit Withdrawals/Disband
+draft: false
+---
+# 18 Unit Withdrawals Disband
 
 
 ### In this Chapter

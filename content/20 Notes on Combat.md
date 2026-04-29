@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 20 Notes on Combat
 
 

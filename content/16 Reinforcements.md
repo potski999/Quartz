@@ -1,3 +1,7 @@
+﻿---
+draft: false
+---
+
 # 16 Reinforcements and Replacements
 
 Reinforcements are ships, air units and ground units that enter the game after a scenario has begun. These units appear in locations displayed on the various reinforcement screens found from the Intelligence Screen. Refer to [[16.7 Arrivals at Enemy Occupied Bases|section 16.7]] “Arrivals” for what happens if the arrival location is enemy controlled. Ground and air units that have taken losses may also receive replacements. Reinforcements and replacements are noted in the appropriate menu from the Intelligence Screens.  Some ground units, air units and ships may upgrade their equipment during a game.
