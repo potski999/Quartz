@@ -1,6 +1,7 @@
----
+﻿---
 title: War in Spain Manual
 draft: false
+type: WIS_Manual
 ---
 
 # *War in Spain 1936-39* Manual

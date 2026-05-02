@@ -1,5 +1,6 @@
 ﻿---
 draft: false
+type: WIS_Manual
 ---
 
 # 17 Victory Conditions

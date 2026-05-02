@@ -1,5 +1,6 @@
 ﻿---
 draft: false
+type: WIS_Manual
 ---
 
 # 22 Designers Notes

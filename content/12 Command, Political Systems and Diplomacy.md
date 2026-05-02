@@ -1,5 +1,6 @@
 ﻿---
 draft: false
+type: WIS_Manual
 ---
 
 ## 12 Command, Political Systems and Diplomacy

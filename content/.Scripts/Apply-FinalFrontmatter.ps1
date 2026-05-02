@@ -1,6 +1,6 @@
 $dir = "c:\Users\potsk\Documents\Obsidian\Vault\WIS Manual"
 $logPath = "$dir\.Scripts\Frontmatter Update Log.md"
-$logContent = @("# Frontmatter Update Log", "**Date:** $(Get-Date -Format 'yyyy-MM-dd')", "**Action:** Set 'draft: false' in all manual files (Fixed Newlines).", "")
+$logContent = @("# Frontmatter Update Log", "**Date:** $(Get-Date -Format 'yyyy-MM-dd')", "**Action:** Applied 'type: WIS_Manual' and 'draft: false' to all manual files.", "")
 
 # Non-manual files to exclude
 $excludedFiles = @(
@@ -21,23 +21,31 @@ foreach ($file in $files) {
     $newContent = $content
     
     # Check for existing frontmatter
-    # Regex handles both \r\n and \n
     if ($content -match "(?s)^---\r?\n(.*?)\r?\n---\r?\n") {
         $fmContent = $matches[1]
-        if ($fmContent -match "draft:\s*true") {
-            $newFm = $fmContent -replace "draft:\s*true", "draft: false"
-            $newContent = $content -replace [regex]::Escape($fmContent), $newFm
-        } elseif ($fmContent -notmatch "draft:") {
-            $newFm = $fmContent + "`ndraft: false"
-            $newContent = $content -replace [regex]::Escape($fmContent), $newFm
+        $newFm = $fmContent
+        
+        # Handle draft: false
+        if ($newFm -match "draft:\s*true") {
+            $newFm = $newFm -replace "draft:\s*true", "draft: false"
+        } elseif ($newFm -notmatch "draft:") {
+            $newFm = $newFm + "`ndraft: false"
         }
+        
+        # Handle type: WIS_Manual
+        if ($newFm -match "type:\s*\w+") {
+            $newFm = $newFm -replace "type:\s*\w+", "type: WIS_Manual"
+        } elseif ($newFm -notmatch "type:") {
+            $newFm = $newFm + "`ntype: WIS_Manual"
+        }
+        
+        $newContent = $content -replace [regex]::Escape($fmContent), $newFm
     } else {
-        # Create new frontmatter using backtick-n for real newlines
-        $newContent = "---`ndraft: false`n---`n`n" + $content
+        # Create new frontmatter
+        $newContent = "---`ndraft: false`ntype: WIS_Manual`n---`n`n" + $content
     }
 
     if ($newContent -ne $content) {
-        # Force UTF8 with no BOM to avoid issues, though Obsidian likes BOM usually
         Set-Content -Path $file.FullName -Value $newContent -Encoding UTF8 -NoNewline
         $modifiedCount++
         $logContent += "- [x] Updated: $($file.FullName.Substring($dir.Length + 1))"

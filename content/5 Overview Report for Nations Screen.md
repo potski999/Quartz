@@ -1,5 +1,6 @@
 ﻿---
 draft: false
+type: WIS_Manual
 ---
 
 # 5 Overview Report for Nations Screen

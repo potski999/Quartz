@@ -1,5 +1,6 @@
----
+﻿---
 draft: false
+type: WIS_Manual
 ---
 
 # 15 Ship Upgrades, Conversions and Repairs

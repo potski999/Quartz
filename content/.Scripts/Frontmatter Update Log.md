@@ -1,189 +1,239 @@
 ﻿# Frontmatter Update Log
-**Date:** 2026-05-01
-**Action:** Set 'draft: false' in all manual files (Fixed Newlines).
+**Date:** 2026-05-02
+**Action:** Applied 'type: WIS_Manual' and 'draft: false' to all manual files.
 
-- [x] Updated: 10.1 The Benefits of a Base.md
-- [x] Updated: 10.2 Base Information.md
-- [x] Updated: 10.2.1 Base Information Screen.md
-- [x] Updated: 10.2.2 Additional Base Information.md
-- [x] Updated: 10.2.2.1 Natural Anchorages.md
-- [x] Updated: 10.2.3 Standard Potential Size (SPS).md
-- [x] Updated: 10.3 Base Symbols.md
-- [x] Updated: 10.3.1 Beach Hex.md
-- [x] Updated: 10.3.2 Base without LCU’s, Air, or Naval Units.md
-- [x] Updated: 10.3.3 Base with Air Unit Present.md
-- [x] Updated: 10.3.4 Base with Naval Unit Present.md
-- [x] Updated: 10.3.5 Base with LCU Present.md
-- [x] Updated: 10.4 Base Details.md
-- [x] Updated: 10.4.1 Base Ownership.md
-- [x] Updated: 10.5 Ports.md
-- [x] Updated: 10.5.1 Port Damage.md
-- [x] Updated: 10.5.2 Ships Caught in Captured Ports.md
-- [x] Updated: 10.5.3 Port Size and Rearming.md
-- [x] Updated: 10.5.4 Ships Docked.md
-- [x] Updated: 10.5.5 Port Cargo and Fuel Handling.md
-- [x] Updated: 10.5.6 Naval Support Adjustments.md
-- [x] Updated: 10.6 Airfields.md
-- [x] Updated: 10.6.1 Airfield Damage.md
-- [x] Updated: 10.7 Base Construction and Repair.md
-- [x] Updated: 10.8 The Hex Information Display.md
-- [x] Updated: 10.9 Outposts.md
-- [x] Updated: 11.1 Spotting Enemy Units.md
-- [x] Updated: 11.2 Detection Levels (DL’s).md
-- [x] Updated: 11.2.1 Detection Level Particulars.md
-- [x] Updated: 11.3 Recon Flights.md
-- [x] Updated: 11.4 Radar, Detection Levels and.md
-- [x] Updated: 11.5 Information given regarding.md
-- [x] Updated: 12.1 Changing Leaders.md
-- [x] Updated: 12.1.1 Task Force Leaders.md
-- [x] Updated: 12.1.2 Ship Withdrawals.md
-- [x] Updated: 12.2 Political System.md
-- [x] Updated: 12.2.2 Armistice and Surrender.md
-- [x] Updated: 13.1 Weather Details.md
-- [x] Updated: 13.1.1 The Beaufort Scale.md
-- [x] Updated: 13.1.2 Weather Types.md
-- [x] Updated: 14.1 Production Buttons.md
-- [x] Updated: 14.1.1 Location Industry Screen.md
-- [x] Updated: 14.10 Supply Production.md
-- [x] Updated: 14.11 Industry.md
-- [x] Updated: 14.12 Capturing Industry.md
-- [x] Updated: 14.13 Ground Units.md
-- [x] Updated: 14.2 Advanced Economy Model and.md
-- [x] Updated: 14.2.1 Heavy Industry.md
-- [x] Updated: 14.2.2 Light Industry.md
-- [x] Updated: 14.2.3 Naval Shipyard.md
-- [x] Updated: 14.2.4 Merchant Shipyard.md
-- [x] Updated: 14.2.5 Armament Factory.md
-- [x] Updated: 14.2.6 AFV Factory.md
-- [x] Updated: 14.2.7 Aircraft Factory.md
-- [x] Updated: 14.2.7.1 Aircraft Factory List.md
-- [x] Updated: 14.3 Factory Device List.md
-- [x] Updated: 14.4 Shipyard Industry Screen.md
-- [x] Updated: 14.4.1 Laydown New Ship Screen.md
-- [x] Updated: 14.4.2 Convert Ship During Construction.md
-- [x] Updated: 14.5 General Research Points (GRP).md
-- [x] Updated: 14.5.1 Research Projects.md
-- [x] Updated: 14.5.2 Technology Types.md
-- [x] Updated: 14.5.2.1 Nation Specific Technologies.md
-- [x] Updated: 14.5.2.2 Other Technologies.md
-- [x] Updated: 14.6 Player Alteration to Production Capabilities.md
-- [x] Updated: 14.6.1 Factory Alterations.md
-- [x] Updated: 14.6.1.1 Aircraft Factory Alterations.md
-- [x] Updated: 14.6.1.2 Factory Expansions.md
-- [x] Updated: 14.7 Industry Management Screen.md
-- [x] Updated: 14.8 Industrial CentersFactories.md
-- [x] Updated: 14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
-- [x] Updated: 14.8.1.1 Coal and Coal Mines.md
-- [x] Updated: 14.8.1.2 Oil and Oil Fields.md
-- [x] Updated: 14.8.1.3 Manpower and Manpower Centers.md
-- [x] Updated: 14.9 Fuel and Refineries.md
-- [x] Updated: 15.1 Ship Upgrades and Conversions.md
-- [x] Updated: 15.1.1 Upgrades.md
-- [x] Updated: 15.1.2 Conversions.md
-- [x] Updated: 15.2 Damage and Repairs.md
-- [x] Updated: 15.2.1 Damage.md
-- [x] Updated: 15.2.1.1 Damage Repair Selection.md
-- [x] Updated: 15.2.1.2 Weapons Damage.md
-- [x] Updated: 15.2.1.3 Repair of Major Damage.md
-- [x] Updated: 15.2.2 Gameplay.md
-- [x] Updated: 15.2.2.1 Modify Repair For Damaged Ships in Port.md
-- [x] Updated: 15.2.3 Repair Modes.md
-- [x] Updated: 15.2.3.1 Shipyard Repair.md
-- [x] Updated: 15.2.3.2. Repair Ship Repair.md
-- [x] Updated: 15.2.3.2.1 Repair Ship Capacity.md
-- [x] Updated: 15.2.3.3 Pierside Repair.md
-- [x] Updated: 15.2.3.4 Port Repair Assist.md
-- [x] Updated: 15.2.3.5 Naval Support Assist.md
-- [x] Updated: 15.2.3.6 Crew Assist.md
-- [x] Updated: 15.2.3.7 Tender Assist.md
-- [x] Updated: 15.2.3.8 Port Assist Ops.md
-- [x] Updated: 15.2.3.9 Readiness vs. Pierside (Stood Down) Repair.md
-- [x] Updated: 15.2.4 Weapon Repair Costs and Requirements.md
-- [x] Updated: 15.2.5 Subsystem Damage and Repair.md
-- [x] Updated: 16.1 Replacements Models.md
-- [x] Updated: 16.2 Connected Bases.md
-- [x] Updated: 16.3 Naval Units Reinforcements.md
-- [x] Updated: 16.4 Air Unit Replacements.md
-- [x] Updated: 16.4.1 Average Pilot Experience by Nationality.md
-- [x] Updated: 16.4.2 Aircraft Upgrades.md
-- [x] Updated: 16.5 Pilot Replacements.md
-- [x] Updated: 16.5.1 Pilot Management.md
-- [x] Updated: 16.5.1.1 Request Individual Pilots (Veteran).md
-- [x] Updated: 16.5.1.2 Training.md
-- [x] Updated: 16.5.1.3 Destruction of Air Units.md
-- [x] Updated: 16.6 Ground Units.md
-- [x] Updated: 16.6.1 Ground Reserve Units (RSV).md
-- [x] Updated: 16.6.2 Ground Unit Weapon Upgrades.md
-- [x] Updated: 16.7 Arrivals at Enemy Occupied Bases.md
-- [x] Updated: 17.1 Victory Levels.md
-- [x] Updated: 17.2 Automatic Victory.md
-- [x] Updated: 17.3 Defeat, Surrender and.md
-- [x] Updated: 17.3.1 Loss of Life Value.md
-- [x] Updated: 17.4 Loss Tolerance.md
-- [x] Updated: 18.3 Ship Withdrawal.md
-- [x] Updated: 18.3.1 Substitution.md
-- [x] Updated: 18.4 General Rules on Withdrawing.md
-- [x] Updated: 19.1 Flipping Player Side in AI Games.md
-- [x] Updated: 19.10 Emergency Mobilization.md
-- [x] Updated: 19.11 Rebuilding Restricted Units.md
-- [x] Updated: 19.12 Terrain and Artillery.md
-- [x] Updated: 19.13 Sub Port Attack.md
-- [x] Updated: 19.14 Small Craft and Midget.md
-- [x] Updated: 19.15 ACR and BM Ship Types.md
-- [x] Updated: 19.16 Torpedo Nets.md
-- [x] Updated: 19.17 Air Combat and Air Tactics.md
-- [x] Updated: 19.18 Naval Air Attack and Scouting.md
-- [x] Updated: 19.19 Emergency Rescue of Survivors.md
-- [x] Updated: 19.2 Ground Unit Planning.md
-- [x] Updated: 19.20 Special Forces Airfield Attacks.md
-- [x] Updated: 19.21 Special Forces Training.md
-- [x] Updated: 19.22 Airborne Assaults.md
-- [x] Updated: 19.23 Limited Devices.md
-- [x] Updated: 19.24 V1, V2 and other Long-Range.md
-- [x] Updated: 19.25 Modding Aircraft Carriers.md
-- [x] Updated: 19.3 Mining.md
-- [x] Updated: 19.4 Air Minesweeping.md
-- [x] Updated: 19.5 Beaching Ships.md
-- [x] Updated: 19.6 Emergency Evacuation of Troops.md
-- [x] Updated: 19.7 Ground Combat.md
-- [x] Updated: 19.8 Tank Support.md
-- [x] Updated: 19.9 Commandos.md
-- [x] Updated: 20.1 Land Combat.md
-- [x] Updated: 20.2 Naval Combat.md
-- [x] Updated: 20.3 Air-to-Air Combat.md
-- [x] Updated: 21.1 Glossary of Game Abbreviations.md
-- [x] Updated: 21.2 Unit Name Translations.md
-- [x] Updated: 21.3 Rank Translations.md
-- [x] Updated: 21.4 Ship Types Table.md
-- [x] Updated: 21.5 Updating an On-going PBEM Game.md
-- [x] Updated: 21.6 Hotkeys.md
-- [x] Updated: 9.1 Unit Logistics Screen.md
-- [x] Updated: 9.2 Logistics Models.md
-- [x] Updated: 9.3 Supply Types.md
-- [x] Updated: 9.4 Supply Draw.md
-- [x] Updated: 9.5 Supply Operations.md
-- [x] Updated: 9.5.1 Supply Operations Sequence of Play.md
-- [x] Updated: 9.5.2 Naval Rearming.md
-- [x] Updated: 9.5.2.1 Port Rearming.md
-- [x] Updated: 9.5.3 Ground Unit Supply.md
-- [x] Updated: 9.5.3.1 Supply and Fatigue Effects on LCU’s.md
-- [x] Updated: 9.5.4 Air Unit Supply.md
-- [x] Updated: 9.6 Automatic Convoys.md
-- [x] Updated: 9.7 Capturing Base Resources.md
-- [x] Updated: 9.8 Spoilage.md
-- [x] Updated: 9.9 Supply Logistics Operations.md
-- [x] Updated: 9.9.1 Railroad Operations.md
-- [x] Updated: 9.9.2 Foot Transportation.md
-- [x] Updated: 9.9.3 Truck Transportation.md
-- [x] Updated: 9.9.4 River Transportation.md
-- [x] Updated: 9.9.5 Indigenous Capacity.md
-- [x] Updated: Frank Tinker.md
-- [x] Updated: Joaquín García-Morato Castaños.md
-- [x] Updated: Memories of T-26 Crewman.md
-- [x] Updated: Spanish Battleship Jaime I.md
-- [x] Updated: Ten famous weapons that debuted in the Spanish Civil War.md
-- [x] Updated: The Nabarra.md
+- [x] Updated: 00 War in Spain Manual.md
+- [x] Updated: 1 Introduction.md
+- [x] Updated: 10 Bases.md
+- [x] Updated: 11 Detection and Spotting of Units.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy.md
+- [x] Updated: 13 Weather.md
+- [x] Updated: 14 Production.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs.md
+- [x] Updated: 16 Reinforcements.md
+- [x] Updated: 17 Victory Conditions.md
+- [x] Updated: 18 Unit Withdrawals Disband.md
+- [x] Updated: 19 Special Rules.md
+- [x] Updated: 2 Getting Started.md
+- [x] Updated: 20 Notes on Combat.md
+- [x] Updated: 21 Appendices.md
+- [x] Updated: 22 Designers Notes.md
+- [x] Updated: 23 References.md
+- [x] Updated: 24 Piteas’s Historical Stories and Information.md
+- [x] Updated: 25 Credits.md
+- [x] Updated: 3 Game Modes and the Sequence of Play.md
+- [x] Updated: 4 The Main Map Display.md
+- [x] Updated: 5 Overview Report for Nations Screen.md
+- [x] Updated: 6 Naval Units.md
+- [x] Updated: 7 Air Units.md
+- [x] Updated: 8 Ground Units.md
+- [x] Updated: 9 Logistics and Supply.md
+- [x] Updated: 1 Introduction\1.1 New Game Engine.md
+- [x] Updated: 1 Introduction\1.10 Technical Support.md
+- [x] Updated: 1 Introduction\1.2 Game Manual.md
+- [x] Updated: 1 Introduction\1.3 Editor Manual.md
 - [x] Updated: 1 Introduction\1.3.1 User Created Scenarios.md
+- [x] Updated: 1 Introduction\1.4 Installation.md
+- [x] Updated: 1 Introduction\1.5 Uninstalling the Game.md
+- [x] Updated: 1 Introduction\1.6 Product Updates.md
+- [x] Updated: 1 Introduction\1.7 Register Your Game, Re-Download.md
+- [x] Updated: 1 Introduction\1.8 Unified Login System.md
+- [x] Updated: 1 Introduction\1.9 Game Forums.md
+- [x] Updated: 10 Bases\10.1 The Benefits of a Base.md
+- [x] Updated: 10 Bases\10.2 Base Information.md
+- [x] Updated: 10 Bases\10.2.1 Base Information Screen.md
+- [x] Updated: 10 Bases\10.2.2 Additional Base Information.md
+- [x] Updated: 10 Bases\10.2.2.1 Natural Anchorages.md
+- [x] Updated: 10 Bases\10.2.3 Standard Potential Size (SPS).md
+- [x] Updated: 10 Bases\10.3 Base Symbols.md
+- [x] Updated: 10 Bases\10.3.1 Beach Hex.md
+- [x] Updated: 10 Bases\10.3.2 Base without LCU’s, Air, or Naval Units.md
+- [x] Updated: 10 Bases\10.3.3 Base with Air Unit Present.md
+- [x] Updated: 10 Bases\10.3.4 Base with Naval Unit Present.md
+- [x] Updated: 10 Bases\10.3.5 Base with LCU Present.md
+- [x] Updated: 10 Bases\10.4 Base Details.md
+- [x] Updated: 10 Bases\10.4.1 Base Ownership.md
+- [x] Updated: 10 Bases\10.5 Ports.md
+- [x] Updated: 10 Bases\10.5.1 Port Damage.md
+- [x] Updated: 10 Bases\10.5.2 Ships Caught in Captured Ports.md
+- [x] Updated: 10 Bases\10.5.3 Port Size and Rearming.md
+- [x] Updated: 10 Bases\10.5.4 Ships Docked.md
+- [x] Updated: 10 Bases\10.5.5 Port Cargo and Fuel Handling.md
+- [x] Updated: 10 Bases\10.5.6 Naval Support Adjustments.md
+- [x] Updated: 10 Bases\10.6 Airfields.md
+- [x] Updated: 10 Bases\10.6.1 Airfield Damage.md
+- [x] Updated: 10 Bases\10.7 Base Construction and Repair.md
+- [x] Updated: 10 Bases\10.8 The Hex Information Display.md
+- [x] Updated: 10 Bases\10.9 Outposts.md
+- [x] Updated: 11 Detection and Spotting of Units\11.1 Spotting Enemy Units.md
+- [x] Updated: 11 Detection and Spotting of Units\11.2 Detection Levels (DL’s).md
+- [x] Updated: 11 Detection and Spotting of Units\11.2.1 Detection Level Particulars.md
+- [x] Updated: 11 Detection and Spotting of Units\11.3 Recon Flights.md
+- [x] Updated: 11 Detection and Spotting of Units\11.4 Radar, Detection Levels and.md
+- [x] Updated: 11 Detection and Spotting of Units\11.5 Information given regarding.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.1 Changing Leaders.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.1.1 Task Force Leaders.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.1.2 Ship Withdrawals.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.2 Political System.md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.2.2 Armistice and Surrender.md
+- [x] Updated: 13 Weather\13.1 Weather Details.md
+- [x] Updated: 13 Weather\13.1.1 The Beaufort Scale.md
+- [x] Updated: 13 Weather\13.1.2 Weather Types.md
+- [x] Updated: 14 Production\14.1 Production Buttons.md
+- [x] Updated: 14 Production\14.1.1 Location Industry Screen.md
+- [x] Updated: 14 Production\14.10 Supply Production.md
+- [x] Updated: 14 Production\14.11 Industry.md
+- [x] Updated: 14 Production\14.12 Capturing Industry.md
+- [x] Updated: 14 Production\14.13 Ground Units.md
+- [x] Updated: 14 Production\14.2 Advanced Economy Model and.md
+- [x] Updated: 14 Production\14.2.1 Heavy Industry.md
+- [x] Updated: 14 Production\14.2.2 Light Industry.md
+- [x] Updated: 14 Production\14.2.3 Naval Shipyard.md
+- [x] Updated: 14 Production\14.2.4 Merchant Shipyard.md
+- [x] Updated: 14 Production\14.2.5 Armament Factory.md
+- [x] Updated: 14 Production\14.2.6 AFV Factory.md
+- [x] Updated: 14 Production\14.2.7 Aircraft Factory.md
+- [x] Updated: 14 Production\14.2.7.1 Aircraft Factory List.md
+- [x] Updated: 14 Production\14.3 Factory Device List.md
+- [x] Updated: 14 Production\14.4 Shipyard Industry Screen.md
+- [x] Updated: 14 Production\14.4.1 Laydown New Ship Screen.md
+- [x] Updated: 14 Production\14.4.2 Convert Ship During Construction.md
+- [x] Updated: 14 Production\14.5 General Research Points (GRP).md
+- [x] Updated: 14 Production\14.5.1 Research Projects.md
+- [x] Updated: 14 Production\14.5.2 Technology Types.md
+- [x] Updated: 14 Production\14.5.2.1 Nation Specific Technologies.md
+- [x] Updated: 14 Production\14.5.2.2 Other Technologies.md
+- [x] Updated: 14 Production\14.6 Player Alteration to Production Capabilities.md
+- [x] Updated: 14 Production\14.6.1 Factory Alterations.md
+- [x] Updated: 14 Production\14.6.1.1 Aircraft Factory Alterations.md
+- [x] Updated: 14 Production\14.6.1.2 Factory Expansions.md
+- [x] Updated: 14 Production\14.7 Industry Management Screen.md
+- [x] Updated: 14 Production\14.8 Industrial CentersFactories.md
+- [x] Updated: 14 Production\14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
+- [x] Updated: 14 Production\14.8.1.1 Coal and Coal Mines.md
+- [x] Updated: 14 Production\14.8.1.2 Oil and Oil Fields.md
+- [x] Updated: 14 Production\14.8.1.3 Manpower and Manpower Centers.md
+- [x] Updated: 14 Production\14.9 Fuel and Refineries.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.1 Ship Upgrades and Conversions.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.1.1 Upgrades.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.1.2 Conversions.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2 Damage and Repairs.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.1 Damage.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.1.1 Damage Repair Selection.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.1.2 Weapons Damage.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.1.3 Repair of Major Damage.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.2 Gameplay.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.2.1 Modify Repair For Damaged Ships in Port.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3 Repair Modes.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.1 Shipyard Repair.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.2. Repair Ship Repair.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.2.1 Repair Ship Capacity.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.3 Pierside Repair.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.4 Port Repair Assist.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.5 Naval Support Assist.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.6 Crew Assist.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.7 Tender Assist.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.8 Port Assist Ops.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.3.9 Readiness vs. Pierside (Stood Down) Repair.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.4 Weapon Repair Costs and Requirements.md
+- [x] Updated: 15 Ship Upgrades, Conversions and Repairs\15.2.5 Subsystem Damage and Repair.md
+- [x] Updated: 16 Reinforcements\16.1 Replacements Models.md
+- [x] Updated: 16 Reinforcements\16.2 Connected Bases.md
+- [x] Updated: 16 Reinforcements\16.3 Naval Units Reinforcements.md
+- [x] Updated: 16 Reinforcements\16.4 Air Unit Replacements.md
+- [x] Updated: 16 Reinforcements\16.4.1 Average Pilot Experience by Nationality.md
+- [x] Updated: 16 Reinforcements\16.4.2 Aircraft Upgrades.md
+- [x] Updated: 16 Reinforcements\16.5 Pilot Replacements.md
+- [x] Updated: 16 Reinforcements\16.5.1 Pilot Management.md
+- [x] Updated: 16 Reinforcements\16.5.1.1 Request Individual Pilots (Veteran).md
+- [x] Updated: 16 Reinforcements\16.5.1.2 Training.md
+- [x] Updated: 16 Reinforcements\16.5.1.3 Destruction of Air Units.md
+- [x] Updated: 16 Reinforcements\16.6 Ground Units.md
+- [x] Updated: 16 Reinforcements\16.6.1 Ground Reserve Units (RSV).md
+- [x] Updated: 16 Reinforcements\16.6.2 Ground Unit Weapon Upgrades.md
+- [x] Updated: 16 Reinforcements\16.7 Arrivals at Enemy Occupied Bases.md
+- [x] Updated: 17 Victory Conditions\17.1 Victory Levels.md
+- [x] Updated: 17 Victory Conditions\17.2 Automatic Victory.md
+- [x] Updated: 17 Victory Conditions\17.3 Defeat, Surrender and.md
+- [x] Updated: 17 Victory Conditions\17.3.1 Loss of Life Value.md
+- [x] Updated: 17 Victory Conditions\17.4 Loss Tolerance.md
+- [x] Updated: 18 Unit Withdrawals Disband\18.1 Air Unit Withdrawal Disband.md
+- [x] Updated: 18 Unit Withdrawals Disband\18.2 Ground Unit Withdrawal Disband.md
+- [x] Updated: 18 Unit Withdrawals Disband\18.3 Ship Withdrawal.md
+- [x] Updated: 18 Unit Withdrawals Disband\18.3.1 Substitution.md
+- [x] Updated: 18 Unit Withdrawals Disband\18.4 General Rules on Withdrawing.md
+- [x] Updated: 19 Special Rules\19.1 Flipping Player Side in AI Games.md
+- [x] Updated: 19 Special Rules\19.10 Emergency Mobilization.md
+- [x] Updated: 19 Special Rules\19.11 Rebuilding Restricted Units.md
+- [x] Updated: 19 Special Rules\19.12 Terrain and Artillery.md
+- [x] Updated: 19 Special Rules\19.13 Sub Port Attack.md
+- [x] Updated: 19 Special Rules\19.14 Small Craft and Midget.md
+- [x] Updated: 19 Special Rules\19.15 ACR and BM Ship Types.md
+- [x] Updated: 19 Special Rules\19.16 Torpedo Nets.md
+- [x] Updated: 19 Special Rules\19.17 Air Combat and Air Tactics.md
+- [x] Updated: 19 Special Rules\19.18 Naval Air Attack and Scouting.md
+- [x] Updated: 19 Special Rules\19.19 Emergency Rescue of Survivors.md
+- [x] Updated: 19 Special Rules\19.2 Ground Unit Planning.md
+- [x] Updated: 19 Special Rules\19.20 Special Forces Airfield Attacks.md
+- [x] Updated: 19 Special Rules\19.21 Special Forces Training.md
+- [x] Updated: 19 Special Rules\19.22 Airborne Assaults.md
+- [x] Updated: 19 Special Rules\19.23 Limited Devices.md
+- [x] Updated: 19 Special Rules\19.24 V1, V2 and other Long-Range.md
+- [x] Updated: 19 Special Rules\19.25 Modding Aircraft Carriers.md
+- [x] Updated: 19 Special Rules\19.3 Mining.md
+- [x] Updated: 19 Special Rules\19.4 Air Minesweeping.md
+- [x] Updated: 19 Special Rules\19.5 Beaching Ships.md
+- [x] Updated: 19 Special Rules\19.6 Emergency Evacuation of Troops.md
+- [x] Updated: 19 Special Rules\19.7 Ground Combat.md
+- [x] Updated: 19 Special Rules\19.8 Tank Support.md
+- [x] Updated: 19 Special Rules\19.9 Commandos.md
+- [x] Updated: 2 Getting Started\2.1 Interface.md
+- [x] Updated: 2 Getting Started\2.2 Main Game Menu.md
+- [x] Updated: 2 Getting Started\2.2.1 Game Play Options.md
+- [x] Updated: 2 Getting Started\2.2.2 Preferences Screen.md
+- [x] Updated: 2 Getting Started\2.2.2.1 General Game Rule Settings (Preferences).md
+- [x] Updated: 2 Getting Started\2.2.2.1.1 Advanced Preferences Screen.md
+- [x] Updated: 2 Getting Started\2.2.3 Scenario Editor.md
+- [x] Updated: 2 Getting Started\2.2.4 Scenario Selection.md
+- [x] Updated: 2 Getting Started\2.2.5 Loading a Save Game.md
+- [x] Updated: 2 Getting Started\2.3 Begin a New Game.md
+- [x] Updated: 2 Getting Started\2.3.1 Tutorial Scenario.md
+- [x] Updated: 20 Notes on Combat\20.1 Land Combat.md
+- [x] Updated: 20 Notes on Combat\20.2 Naval Combat.md
+- [x] Updated: 20 Notes on Combat\20.3 Air-to-Air Combat.md
+- [x] Updated: 21 Appendices\21.1 Glossary of Game Abbreviations.md
+- [x] Updated: 21 Appendices\21.2 Unit Name Translations.md
+- [x] Updated: 21 Appendices\21.3 Rank Translations.md
+- [x] Updated: 21 Appendices\21.4 Ship Types Table.md
+- [x] Updated: 21 Appendices\21.5 Updating an On-going PBEM Game.md
+- [x] Updated: 21 Appendices\21.6 Hotkeys.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\Frank Tinker.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\Joaquín García-Morato Castaños.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\Memories of T-26 Crewman.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\Spanish Battleship Jaime I.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\Ten famous weapons that debuted in the Spanish Civil War.md
+- [x] Updated: 24 Piteas's Historical Stories and Information\The Nabarra.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.1 AI Games.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.2 PBEM Games.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.2.1 PBEM Sequence of Play.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.3 WEGO Team Games.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.3.1 WEGO Team Games Setup.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.3.1.1 Master Player.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.3.1.2 WEGO Setup.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.3.1.3 WEGO Sequence of Play.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.4 Key code.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.5 Head-to-Head Games.md
+- [x] Updated: 4 The Main Map Display\4.1 The Menu Bar.md
+- [x] Updated: 4 The Main Map Display\4.2 The Tactical Map.md
+- [x] Updated: 4 The Main Map Display\4.2.1 Terrain.md
+- [x] Updated: 4 The Main Map Display\4.2.1.1 Hex Terrain Types.md
+- [x] Updated: 4 The Main Map Display\4.2.1.2 Hex Side Types.md
+- [x] Updated: 4 The Main Map Display\4.2.1.2.1 Movement through Hex Sides.md
+- [x] Updated: 4 The Main Map Display\4.2.1.3 Land Transportation Links.md
+- [x] Updated: 4 The Main Map Display\4.2.1.4 Maritime Transportation Links.md
+- [x] Updated: 4 The Main Map Display\4.2.1.5 The Straits of Gibraltar.md
+- [x] Updated: 4 The Main Map Display\4.2.1.6 Off Map Maritime Transport Links.md
+- [x] Updated: 4 The Main Map Display\4.2.2 Tactical Map Icons.md
 - [x] Updated: 4 The Main Map Display\4.2.2.1 Land Unit Icons.md
 - [x] Updated: 4 The Main Map Display\4.2.2.2 Ground Unit Overlay.md
 - [x] Updated: 4 The Main Map Display\4.2.2.3 Base Icons.md
@@ -191,9 +241,146 @@
 - [x] Updated: 4 The Main Map Display\4.2.2.5 Anchored Ships Icon.md
 - [x] Updated: 4 The Main Map Display\4.2.2.6 Task Force Icons.md
 - [x] Updated: 4 The Main Map Display\4.2.2.7 Minefields Icon.md
+- [x] Updated: 4 The Main Map Display\4.2.3 Off Map Bases and Ocean Links.md
 - [x] Updated: 4 The Main Map Display\4.2.3.1 Off Map Bases and Virtual Hex Coordinates.md
 - [x] Updated: 4 The Main Map Display\4.2.3.2 Ocean Links.md
 - [x] Updated: 4 The Main Map Display\4.2.3.3 Holding Boxes.md
+- [x] Updated: 4 The Main Map Display\4.3 Hex Information Display.md
+- [x] Updated: 4 The Main Map Display\4.4 Jump Map.md
+- [x] Updated: 4 The Main Map Display\4.5 Mouse Over.md
+- [x] Updated: 4 The Main Map Display\4.5.1 Base Icon Display.md
+- [x] Updated: 4 The Main Map Display\4.5.2 Mouse Over Information of Land Combat Unit.md
+- [x] Updated: 4 The Main Map Display\4.5.3 Airfield Icon.md
+- [x] Updated: 4 The Main Map Display\4.5.4 Anchored Ships Icon.md
+- [x] Updated: 4 The Main Map Display\4.5.5 Task Force Icon.md
+- [x] Updated: 4 The Main Map Display\4.5.5.1 Enemy Task Force Icon.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1 Overview Report for Nations Screen in Detail.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.1 Pick Nation.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.10 Politics.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.11 Pilot Replacements.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.12 Ships Sunk.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.13 Ship Availability.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.14 Group Reinforcement Schedule.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.15 LCU Reinforcement Schedule.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.16 Device Pool.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.17 Research and Development.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.18 Aircraft Production Pool.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.19 Aircraft Lost.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.2 Loss of Life Value.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.2.1 Loss Tolerance.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.2.2 Loss Tolerance Penalty Levels.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.3 Aircraft Production Etc.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.4 Replace all Ship Captains with Adequate Captains.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.5 Swap Shipboard Pilots with better LBA Pilots.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.6 Load First Turn Setup.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.7 Save As First Turn Setup.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.8 Recall Destroyed LCU’s.md
+- [x] Updated: 5 Overview Report for Nations Screen\5.1.9 Commerce Action.md
+- [x] Updated: 6 Naval Units\6.1 Task Forces and Ships.md
+- [x] Updated: 6 Naval Units\6.1.1 Task Force Symbols.md
+- [x] Updated: 6 Naval Units\6.1.1.1 Task Force Missions.md
+- [x] Updated: 6 Naval Units\6.1.2 Task Force Information Screen.md
+- [x] Updated: 6 Naval Units\6.1.2.1 Set TF Destination.md
+- [x] Updated: 6 Naval Units\6.1.2.2 Set TF Routing.md
+- [x] Updated: 6 Naval Units\6.1.2.2.1 Follow and Meet TF.md
+- [x] Updated: 6 Naval Units\6.1.2.2.1.1 Follow TF.md
+- [x] Updated: 6 Naval Units\6.1.2.2.1.2 Meet TF.md
+- [x] Updated: 6 Naval Units\6.1.2.2.2 Use Waypoints.md
+- [x] Updated: 6 Naval Units\6.1.2.2.3 Set Patrol Zone.md
+- [x] Updated: 6 Naval Units\6.1.2.2.3.1 Set Boundary.md
+- [x] Updated: 6 Naval Units\6.1.2.2.3.2 Patrol Around Target.md
+- [x] Updated: 6 Naval Units\6.1.2.2.4 Routing Control.md
+- [x] Updated: 6 Naval Units\6.1.2.2.5 Threat Tolerance.md
+- [x] Updated: 6 Naval Units\6.1.2.2.6 Trade and Cargo Routes (Auto-Convoys).md
+- [x] Updated: 6 Naval Units\6.1.2.3 Set Home Port.md
+- [x] Updated: 6 Naval Units\6.1.3 Ship Information Screen.md
+- [x] Updated: 6 Naval Units\6.1.3.1 Upgrades and Conversions.md
+- [x] Updated: 6 Naval Units\6.1.3.1.1 Upgrades Conversions Damage and Requirements.md
+- [x] Updated: 6 Naval Units\6.10 Naval Ammunition and Retreat.md
+- [x] Updated: 6 Naval Units\6.11 Task Force Officers.md
+- [x] Updated: 6 Naval Units\6.12 Shakedown Cruises.md
+- [x] Updated: 6 Naval Units\6.13 Naval Combat.md
+- [x] Updated: 6 Naval Units\6.13.1 Surface Combat.md
+- [x] Updated: 6 Naval Units\6.13.2 The Flag Bridge.md
+- [x] Updated: 6 Naval Units\6.13.3 Tactical Combat Map.md
+- [x] Updated: 6 Naval Units\6.13.4 Naval Combat Animations.md
+- [x] Updated: 6 Naval Units\6.13.5 Ship-to-Shore Bombardment.md
+- [x] Updated: 6 Naval Units\6.13.6 Submarine Warfare.md
+- [x] Updated: 6 Naval Units\6.13.6.1 Torpedo Supply.md
+- [x] Updated: 6 Naval Units\6.13.6.2 Submarine vs. Surface.md
+- [x] Updated: 6 Naval Units\6.13.6.3 Sub vs Sub Combat.md
+- [x] Updated: 6 Naval Units\6.13.6.4 Torpedo Duds.md
+- [x] Updated: 6 Naval Units\6.14 Damage to Ships.md
+- [x] Updated: 6 Naval Units\6.14.1 Sub-System Damage.md
+- [x] Updated: 6 Naval Units\6.14.2 Operational Damage and Repairs at Sea.md
+- [x] Updated: 6 Naval Units\6.15 Mine Laying Task Forces and Mine Warfare.md
+- [x] Updated: 6 Naval Units\6.15.1 Mine Laying.md
+- [x] Updated: 6 Naval Units\6.15.2 Minefield Maintenance.md
+- [x] Updated: 6 Naval Units\6.15.2.1 Minefield Decay.md
+- [x] Updated: 6 Naval Units\6.15.2.2 Minefield Tenders.md
+- [x] Updated: 6 Naval Units\6.15.3 Minelaying Ships.md
+- [x] Updated: 6 Naval Units\6.15.3.1 Minelayers.md
+- [x] Updated: 6 Naval Units\6.15.3.2 Special Minelayers.md
+- [x] Updated: 6 Naval Units\6.15.3.2.1 Sub Minelayers.md
+- [x] Updated: 6 Naval Units\6.15.3.2.2 Auxiliary Minelayers.md
+- [x] Updated: 6 Naval Units\6.15.4 Mine Rearming.md
+- [x] Updated: 6 Naval Units\6.15.5 Minesweeping.md
+- [x] Updated: 6 Naval Units\6.15.5.1 Minesweeping TF Creation.md
+- [x] Updated: 6 Naval Units\6.15.5.2 Minesweeping.md
+- [x] Updated: 6 Naval Units\6.15.5.3 Local Minesweeping.md
+- [x] Updated: 6 Naval Units\6.15.6 Mine Warfare Ship Classes Table.md
+- [x] Updated: 6 Naval Units\6.15.7 Mine Types.md
+- [x] Updated: 6 Naval Units\6.16 Creating PT Boats Etc.md
+- [x] Updated: 6 Naval Units\6.17 Coastal Guns and Passing Task Forces.md
+- [x] Updated: 6 Naval Units\6.18 Withdrawal and Return of Ships.md
+- [x] Updated: 6 Naval Units\6.19 Special Coast Defense Convoy Units.md
+- [x] Updated: 6 Naval Units\6.2 Creating a Task Force.md
+- [x] Updated: 6 Naval Units\6.2.1 Task Force Formations.md
+- [x] Updated: 6 Naval Units\6.2.10 TF Returning to Home Base.md
+- [x] Updated: 6 Naval Units\6.2.2 Disbanding Task Forces.md
+- [x] Updated: 6 Naval Units\6.2.3 Task Force Speed.md
+- [x] Updated: 6 Naval Units\6.2.4 Automatic Ship Separation from TF Etc.md
+- [x] Updated: 6 Naval Units\6.2.5 Patrol Retreat Max React Range Etc.md
+- [x] Updated: 6 Naval Units\6.2.6 Mission Types and their Impact on Movement.md
+- [x] Updated: 6 Naval Units\6.2.7 Assigning TF Destinations.md
+- [x] Updated: 6 Naval Units\6.2.7.1 Follow Task Force.md
+- [x] Updated: 6 Naval Units\6.2.7.2 Meet Task Force.md
+- [x] Updated: 6 Naval Units\6.2.8 Set Patrol Zone.md
+- [x] Updated: 6 Naval Units\6.2.9 Transferring Ships Between Task Forces.md
+- [x] Updated: 6 Naval Units\6.3 TF Off-Map Movement.md
+- [x] Updated: 6 Naval Units\6.3.1 Naval Movement from Main Map.md
+- [x] Updated: 6 Naval Units\6.3.2 Naval Movement from Off-Map Area.md
+- [x] Updated: 6 Naval Units\6.3.3 Naval Movement Between Connected Off-Map Areas.md
+- [x] Updated: 6 Naval Units\6.4 Submarines.md
+- [x] Updated: 6 Naval Units\6.5 Ship Endurance.md
+- [x] Updated: 6 Naval Units\6.5.1 Refueling in Port and at Sea.md
+- [x] Updated: 6 Naval Units\6.6 Operation Points.md
+- [x] Updated: 6 Naval Units\6.7 Docking.md
+- [x] Updated: 6 Naval Units\6.7.1 Task Force Docking Restrictions.md
+- [x] Updated: 6 Naval Units\6.7.2 Cargo Transfer Rate.md
+- [x] Updated: 6 Naval Units\6.7.3 Port Information Screen.md
+- [x] Updated: 6 Naval Units\6.8 Task Force Loading.md
+- [x] Updated: 6 Naval Units\6.8.1 Loading Men and Materials.md
+- [x] Updated: 6 Naval Units\6.8.1.1 Load Types.md
+- [x] Updated: 6 Naval Units\6.8.2 Ship Capacity Types.md
+- [x] Updated: 6 Naval Units\6.8.2.1 Capacity Usage.md
+- [x] Updated: 6 Naval Units\6.8.2.2 Ship Type.md
+- [x] Updated: 6 Naval Units\6.8.3 Cross-Load Adjustments and Daily Fatigue.md
+- [x] Updated: 6 Naval Units\6.8.3.1 Troops in Cargo Space.md
+- [x] Updated: 6 Naval Units\6.8.3.2 Daily Fatigue.md
+- [x] Updated: 6 Naval Units\6.8.3.3 Unload Damage.md
+- [x] Updated: 6 Naval Units\6.9 Task Force Loading Procedure.md
+- [x] Updated: 6 Naval Units\6.9.1 Load Procedure.md
+- [x] Updated: 6 Naval Units\6.9.2 Loading Units.md
+- [x] Updated: 6 Naval Units\6.9.2.1 Normal Load.md
+- [x] Updated: 6 Naval Units\6.9.2.2 Load using Minimum Ships.md
+- [x] Updated: 6 Naval Units\6.9.2.3. Device Load Rate.md
+- [x] Updated: 6 Naval Units\6.9.2.4 Ship Load Ability.md
+- [x] Updated: 6 Naval Units\6.9.2.5 Port Load Rate Adjustments.md
+- [x] Updated: 6 Naval Units\6.9.2.6 Amphibious Loading.md
+- [x] Updated: 6 Naval Units\6.9.3 Task Force Unloading.md
+- [x] Updated: 6 Naval Units\6.9.3.1 Normal Unloading.md
+- [x] Updated: 6 Naval Units\6.9.3.2 Amphibious Unloading.md
 - [x] Updated: 7 Air Units\7.1 Aircraft Types.md
 - [x] Updated: 7 Air Units\7.10 Air Sequence of Play.md
 - [x] Updated: 7 Air Units\7.10.1 Air Sequence Sub-Phases.md
@@ -341,3 +528,23 @@
 - [x] Updated: 8 Ground Units\8.8.3 Fatigue.md
 - [x] Updated: 8 Ground Units\8.8.4 Suppression.md
 - [x] Updated: 8 Ground Units\8.9 Island Stacking.md
+- [x] Updated: 9 Logistics and Supply\9.1 Unit Logistics Screen.md
+- [x] Updated: 9 Logistics and Supply\9.2 Logistics Models.md
+- [x] Updated: 9 Logistics and Supply\9.3 Supply Types.md
+- [x] Updated: 9 Logistics and Supply\9.4 Supply Draw.md
+- [x] Updated: 9 Logistics and Supply\9.5 Supply Operations.md
+- [x] Updated: 9 Logistics and Supply\9.5.1 Supply Operations Sequence of Play.md
+- [x] Updated: 9 Logistics and Supply\9.5.2 Naval Rearming.md
+- [x] Updated: 9 Logistics and Supply\9.5.2.1 Port Rearming.md
+- [x] Updated: 9 Logistics and Supply\9.5.3 Ground Unit Supply.md
+- [x] Updated: 9 Logistics and Supply\9.5.3.1 Supply and Fatigue Effects on LCU’s.md
+- [x] Updated: 9 Logistics and Supply\9.5.4 Air Unit Supply.md
+- [x] Updated: 9 Logistics and Supply\9.6 Automatic Convoys.md
+- [x] Updated: 9 Logistics and Supply\9.7 Capturing Base Resources.md
+- [x] Updated: 9 Logistics and Supply\9.8 Spoilage.md
+- [x] Updated: 9 Logistics and Supply\9.9 Supply Logistics Operations.md
+- [x] Updated: 9 Logistics and Supply\9.9.1 Railroad Operations.md
+- [x] Updated: 9 Logistics and Supply\9.9.2 Foot Transportation.md
+- [x] Updated: 9 Logistics and Supply\9.9.3 Truck Transportation.md
+- [x] Updated: 9 Logistics and Supply\9.9.4 River Transportation.md
+- [x] Updated: 9 Logistics and Supply\9.9.5 Indigenous Capacity.md

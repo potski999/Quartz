@@ -1,5 +1,6 @@
 ﻿---
 draft: false
+type: WIS_Manual
 ---
 
 # 11 Detection and Spotting of Units
