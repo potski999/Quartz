@@ -1,4 +1,4 @@
-﻿---
+---
 title: War in Spain Manual
 draft: false
 type: WIS_Manual
@@ -29,6 +29,6 @@ type: WIS_Manual
 [[21 Appendices]]  
 [[22 Designers Notes]]  
 [[23 References]]  
-[[24 Piteas’s Historical Stories and Information]]  
+[[WIS Manual/24 Piteas's Historical Stories and Information/index|24 Piteas’s Historical Stories and Information]]
 [[25 Credits]]  
 	

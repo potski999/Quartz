@@ -1,6 +1,8 @@
 ---
 draft: false
 type: WIS_Manual
+aliases:
+  - 24 Piteas’s Historical Stories and Information
 ---
 
 # 24 Piteas’s Historical Stories and Information
