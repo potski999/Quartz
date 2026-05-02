@@ -103,8 +103,3 @@ ADMIN ASSISTANT Richard Baker
 CUSTOMER SUPPORT STAFF Paulo Costa, John Costello, Ethan Lyons, Joseph Miller, Daniel Tanner
 
 WEB DEVELOPMENT Valery Vidershpan, Andrea Nicola, Fernando Turi, Yurii Shmelev, Stanislav Kolodzinsky
-
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **440, 441** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

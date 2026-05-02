@@ -1,0 +1,13 @@
+---
+draft: false
+---
+
+### Memories of a republican T-26 tank crewman in the Battle of the Ebro
+
+We noticed the black pennant of our infantry’s extreme advance flying near a rock where a nationalist truck was smoking, surrounded by corpses; the wounded enemies had been finished off.
+
+With great determination, Lieutenant Abaunza shouted a vibrant “Let’s go after them!” We hadn’t gone more than 400 meters when we spotted, in front of us, four moors trying to position a German 45mm “Pack” anti-tank gun, pulled by two mules. Each vehicle fired twice, and in a brief burst of fire, everything was pulverized.  For a moment, we wondered... Where were all their comrades? They had climbed a slope to our left and were now coming back down in a pack, armed with machine guns and canisters of flammable liquid. Our turrets turned a quarter turn, and we opened fire on the mass. Two or three shots each to make them hesitate, followed by bursts of 7.62mm rounds to chip them away on the slope. About twenty of them fell, but the rest weren’t discouraged and plunged into the ravine, where they were out of range. It’s a shame a third tank didn’t arrive at the precise moment behind us. The angle of the left turn would have given it the chance to annihilate all the occupants of the ravine.
+
+We fired relentlessly with the 7.62 mm machine gun towards the left edge, but we soon smelled the smoke from the burning engine and we were immobilized. There was no other option but to wait for the BA 6 autocannons, which couldn’t be long in coming, given the inferno we had unleashed.
+
+Shouting wildly with joy, the moors pounded on the armor with the barrels of their rifles while we pretended to be dead. The same tactic was used on the second tank, which was immobilized like us. Fortunately for us, they had no mines. Then their shouts ceased, and they tried to break the 30-centimeter-thick, unbreakable glass used by the tank commander and the driver. We just had to wait, but in the afternoon, the heat had become unbearable, and our water supply was down to one liter each. At three o´clock, the moors started shouting again, but this time they were screaming with terror. A mechanized column was arriving and opened fire with all its guns. It was the signal to flee. We were able to fire again as they retreated. Two BA 6 self-propelled guns extended their 45mm howitzer fire and their 7.62mm machine gun burst to drive them off. In a flash, the moors had all disappeared. We abandoned our immobilized tanks and moved forward, riding in a BA6, until we reached the vicinity of Gandesa... That’s where hell began.

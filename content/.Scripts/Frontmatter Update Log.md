@@ -1,0 +1,343 @@
+﻿# Frontmatter Update Log
+**Date:** 2026-05-01
+**Action:** Set 'draft: false' in all manual files (Fixed Newlines).
+
+- [x] Updated: 10.1 The Benefits of a Base.md
+- [x] Updated: 10.2 Base Information.md
+- [x] Updated: 10.2.1 Base Information Screen.md
+- [x] Updated: 10.2.2 Additional Base Information.md
+- [x] Updated: 10.2.2.1 Natural Anchorages.md
+- [x] Updated: 10.2.3 Standard Potential Size (SPS).md
+- [x] Updated: 10.3 Base Symbols.md
+- [x] Updated: 10.3.1 Beach Hex.md
+- [x] Updated: 10.3.2 Base without LCU’s, Air, or Naval Units.md
+- [x] Updated: 10.3.3 Base with Air Unit Present.md
+- [x] Updated: 10.3.4 Base with Naval Unit Present.md
+- [x] Updated: 10.3.5 Base with LCU Present.md
+- [x] Updated: 10.4 Base Details.md
+- [x] Updated: 10.4.1 Base Ownership.md
+- [x] Updated: 10.5 Ports.md
+- [x] Updated: 10.5.1 Port Damage.md
+- [x] Updated: 10.5.2 Ships Caught in Captured Ports.md
+- [x] Updated: 10.5.3 Port Size and Rearming.md
+- [x] Updated: 10.5.4 Ships Docked.md
+- [x] Updated: 10.5.5 Port Cargo and Fuel Handling.md
+- [x] Updated: 10.5.6 Naval Support Adjustments.md
+- [x] Updated: 10.6 Airfields.md
+- [x] Updated: 10.6.1 Airfield Damage.md
+- [x] Updated: 10.7 Base Construction and Repair.md
+- [x] Updated: 10.8 The Hex Information Display.md
+- [x] Updated: 10.9 Outposts.md
+- [x] Updated: 11.1 Spotting Enemy Units.md
+- [x] Updated: 11.2 Detection Levels (DL’s).md
+- [x] Updated: 11.2.1 Detection Level Particulars.md
+- [x] Updated: 11.3 Recon Flights.md
+- [x] Updated: 11.4 Radar, Detection Levels and.md
+- [x] Updated: 11.5 Information given regarding.md
+- [x] Updated: 12.1 Changing Leaders.md
+- [x] Updated: 12.1.1 Task Force Leaders.md
+- [x] Updated: 12.1.2 Ship Withdrawals.md
+- [x] Updated: 12.2 Political System.md
+- [x] Updated: 12.2.2 Armistice and Surrender.md
+- [x] Updated: 13.1 Weather Details.md
+- [x] Updated: 13.1.1 The Beaufort Scale.md
+- [x] Updated: 13.1.2 Weather Types.md
+- [x] Updated: 14.1 Production Buttons.md
+- [x] Updated: 14.1.1 Location Industry Screen.md
+- [x] Updated: 14.10 Supply Production.md
+- [x] Updated: 14.11 Industry.md
+- [x] Updated: 14.12 Capturing Industry.md
+- [x] Updated: 14.13 Ground Units.md
+- [x] Updated: 14.2 Advanced Economy Model and.md
+- [x] Updated: 14.2.1 Heavy Industry.md
+- [x] Updated: 14.2.2 Light Industry.md
+- [x] Updated: 14.2.3 Naval Shipyard.md
+- [x] Updated: 14.2.4 Merchant Shipyard.md
+- [x] Updated: 14.2.5 Armament Factory.md
+- [x] Updated: 14.2.6 AFV Factory.md
+- [x] Updated: 14.2.7 Aircraft Factory.md
+- [x] Updated: 14.2.7.1 Aircraft Factory List.md
+- [x] Updated: 14.3 Factory Device List.md
+- [x] Updated: 14.4 Shipyard Industry Screen.md
+- [x] Updated: 14.4.1 Laydown New Ship Screen.md
+- [x] Updated: 14.4.2 Convert Ship During Construction.md
+- [x] Updated: 14.5 General Research Points (GRP).md
+- [x] Updated: 14.5.1 Research Projects.md
+- [x] Updated: 14.5.2 Technology Types.md
+- [x] Updated: 14.5.2.1 Nation Specific Technologies.md
+- [x] Updated: 14.5.2.2 Other Technologies.md
+- [x] Updated: 14.6 Player Alteration to Production Capabilities.md
+- [x] Updated: 14.6.1 Factory Alterations.md
+- [x] Updated: 14.6.1.1 Aircraft Factory Alterations.md
+- [x] Updated: 14.6.1.2 Factory Expansions.md
+- [x] Updated: 14.7 Industry Management Screen.md
+- [x] Updated: 14.8 Industrial CentersFactories.md
+- [x] Updated: 14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
+- [x] Updated: 14.8.1.1 Coal and Coal Mines.md
+- [x] Updated: 14.8.1.2 Oil and Oil Fields.md
+- [x] Updated: 14.8.1.3 Manpower and Manpower Centers.md
+- [x] Updated: 14.9 Fuel and Refineries.md
+- [x] Updated: 15.1 Ship Upgrades and Conversions.md
+- [x] Updated: 15.1.1 Upgrades.md
+- [x] Updated: 15.1.2 Conversions.md
+- [x] Updated: 15.2 Damage and Repairs.md
+- [x] Updated: 15.2.1 Damage.md
+- [x] Updated: 15.2.1.1 Damage Repair Selection.md
+- [x] Updated: 15.2.1.2 Weapons Damage.md
+- [x] Updated: 15.2.1.3 Repair of Major Damage.md
+- [x] Updated: 15.2.2 Gameplay.md
+- [x] Updated: 15.2.2.1 Modify Repair For Damaged Ships in Port.md
+- [x] Updated: 15.2.3 Repair Modes.md
+- [x] Updated: 15.2.3.1 Shipyard Repair.md
+- [x] Updated: 15.2.3.2. Repair Ship Repair.md
+- [x] Updated: 15.2.3.2.1 Repair Ship Capacity.md
+- [x] Updated: 15.2.3.3 Pierside Repair.md
+- [x] Updated: 15.2.3.4 Port Repair Assist.md
+- [x] Updated: 15.2.3.5 Naval Support Assist.md
+- [x] Updated: 15.2.3.6 Crew Assist.md
+- [x] Updated: 15.2.3.7 Tender Assist.md
+- [x] Updated: 15.2.3.8 Port Assist Ops.md
+- [x] Updated: 15.2.3.9 Readiness vs. Pierside (Stood Down) Repair.md
+- [x] Updated: 15.2.4 Weapon Repair Costs and Requirements.md
+- [x] Updated: 15.2.5 Subsystem Damage and Repair.md
+- [x] Updated: 16.1 Replacements Models.md
+- [x] Updated: 16.2 Connected Bases.md
+- [x] Updated: 16.3 Naval Units Reinforcements.md
+- [x] Updated: 16.4 Air Unit Replacements.md
+- [x] Updated: 16.4.1 Average Pilot Experience by Nationality.md
+- [x] Updated: 16.4.2 Aircraft Upgrades.md
+- [x] Updated: 16.5 Pilot Replacements.md
+- [x] Updated: 16.5.1 Pilot Management.md
+- [x] Updated: 16.5.1.1 Request Individual Pilots (Veteran).md
+- [x] Updated: 16.5.1.2 Training.md
+- [x] Updated: 16.5.1.3 Destruction of Air Units.md
+- [x] Updated: 16.6 Ground Units.md
+- [x] Updated: 16.6.1 Ground Reserve Units (RSV).md
+- [x] Updated: 16.6.2 Ground Unit Weapon Upgrades.md
+- [x] Updated: 16.7 Arrivals at Enemy Occupied Bases.md
+- [x] Updated: 17.1 Victory Levels.md
+- [x] Updated: 17.2 Automatic Victory.md
+- [x] Updated: 17.3 Defeat, Surrender and.md
+- [x] Updated: 17.3.1 Loss of Life Value.md
+- [x] Updated: 17.4 Loss Tolerance.md
+- [x] Updated: 18.3 Ship Withdrawal.md
+- [x] Updated: 18.3.1 Substitution.md
+- [x] Updated: 18.4 General Rules on Withdrawing.md
+- [x] Updated: 19.1 Flipping Player Side in AI Games.md
+- [x] Updated: 19.10 Emergency Mobilization.md
+- [x] Updated: 19.11 Rebuilding Restricted Units.md
+- [x] Updated: 19.12 Terrain and Artillery.md
+- [x] Updated: 19.13 Sub Port Attack.md
+- [x] Updated: 19.14 Small Craft and Midget.md
+- [x] Updated: 19.15 ACR and BM Ship Types.md
+- [x] Updated: 19.16 Torpedo Nets.md
+- [x] Updated: 19.17 Air Combat and Air Tactics.md
+- [x] Updated: 19.18 Naval Air Attack and Scouting.md
+- [x] Updated: 19.19 Emergency Rescue of Survivors.md
+- [x] Updated: 19.2 Ground Unit Planning.md
+- [x] Updated: 19.20 Special Forces Airfield Attacks.md
+- [x] Updated: 19.21 Special Forces Training.md
+- [x] Updated: 19.22 Airborne Assaults.md
+- [x] Updated: 19.23 Limited Devices.md
+- [x] Updated: 19.24 V1, V2 and other Long-Range.md
+- [x] Updated: 19.25 Modding Aircraft Carriers.md
+- [x] Updated: 19.3 Mining.md
+- [x] Updated: 19.4 Air Minesweeping.md
+- [x] Updated: 19.5 Beaching Ships.md
+- [x] Updated: 19.6 Emergency Evacuation of Troops.md
+- [x] Updated: 19.7 Ground Combat.md
+- [x] Updated: 19.8 Tank Support.md
+- [x] Updated: 19.9 Commandos.md
+- [x] Updated: 20.1 Land Combat.md
+- [x] Updated: 20.2 Naval Combat.md
+- [x] Updated: 20.3 Air-to-Air Combat.md
+- [x] Updated: 21.1 Glossary of Game Abbreviations.md
+- [x] Updated: 21.2 Unit Name Translations.md
+- [x] Updated: 21.3 Rank Translations.md
+- [x] Updated: 21.4 Ship Types Table.md
+- [x] Updated: 21.5 Updating an On-going PBEM Game.md
+- [x] Updated: 21.6 Hotkeys.md
+- [x] Updated: 9.1 Unit Logistics Screen.md
+- [x] Updated: 9.2 Logistics Models.md
+- [x] Updated: 9.3 Supply Types.md
+- [x] Updated: 9.4 Supply Draw.md
+- [x] Updated: 9.5 Supply Operations.md
+- [x] Updated: 9.5.1 Supply Operations Sequence of Play.md
+- [x] Updated: 9.5.2 Naval Rearming.md
+- [x] Updated: 9.5.2.1 Port Rearming.md
+- [x] Updated: 9.5.3 Ground Unit Supply.md
+- [x] Updated: 9.5.3.1 Supply and Fatigue Effects on LCU’s.md
+- [x] Updated: 9.5.4 Air Unit Supply.md
+- [x] Updated: 9.6 Automatic Convoys.md
+- [x] Updated: 9.7 Capturing Base Resources.md
+- [x] Updated: 9.8 Spoilage.md
+- [x] Updated: 9.9 Supply Logistics Operations.md
+- [x] Updated: 9.9.1 Railroad Operations.md
+- [x] Updated: 9.9.2 Foot Transportation.md
+- [x] Updated: 9.9.3 Truck Transportation.md
+- [x] Updated: 9.9.4 River Transportation.md
+- [x] Updated: 9.9.5 Indigenous Capacity.md
+- [x] Updated: Frank Tinker.md
+- [x] Updated: Joaquín García-Morato Castaños.md
+- [x] Updated: Memories of T-26 Crewman.md
+- [x] Updated: Spanish Battleship Jaime I.md
+- [x] Updated: Ten famous weapons that debuted in the Spanish Civil War.md
+- [x] Updated: The Nabarra.md
+- [x] Updated: 1 Introduction\1.3.1 User Created Scenarios.md
+- [x] Updated: 4 The Main Map Display\4.2.2.1 Land Unit Icons.md
+- [x] Updated: 4 The Main Map Display\4.2.2.2 Ground Unit Overlay.md
+- [x] Updated: 4 The Main Map Display\4.2.2.3 Base Icons.md
+- [x] Updated: 4 The Main Map Display\4.2.2.4 Operational Airfield Icon.md
+- [x] Updated: 4 The Main Map Display\4.2.2.5 Anchored Ships Icon.md
+- [x] Updated: 4 The Main Map Display\4.2.2.6 Task Force Icons.md
+- [x] Updated: 4 The Main Map Display\4.2.2.7 Minefields Icon.md
+- [x] Updated: 4 The Main Map Display\4.2.3.1 Off Map Bases and Virtual Hex Coordinates.md
+- [x] Updated: 4 The Main Map Display\4.2.3.2 Ocean Links.md
+- [x] Updated: 4 The Main Map Display\4.2.3.3 Holding Boxes.md
+- [x] Updated: 7 Air Units\7.1 Aircraft Types.md
+- [x] Updated: 7 Air Units\7.10 Air Sequence of Play.md
+- [x] Updated: 7 Air Units\7.10.1 Air Sequence Sub-Phases.md
+- [x] Updated: 7 Air Units\7.10.2 Assigning Aircraft Missions.md
+- [x] Updated: 7 Air Units\7.10.3 Mission Types.md
+- [x] Updated: 7 Air Units\7.10.4 DayNight Air Operations Sequence of Play.md
+- [x] Updated: 7 Air Units\7.11 Mission Types by Aircraft Type.md
+- [x] Updated: 7 Air Units\7.12 Morale, Readiness and Air Missions.md
+- [x] Updated: 7 Air Units\7.13 Over Stacking at Airfields.md
+- [x] Updated: 7 Air Units\7.14 Air HQs and Air Missions.md
+- [x] Updated: 7 Air Units\7.15 Aircraft Range and Air Missions.md
+- [x] Updated: 7 Air Units\7.15.1 Extended Range.md
+- [x] Updated: 7 Air Units\7.15.2 Drop Tank Ranges.md
+- [x] Updated: 7 Air Units\7.15.2.1 Drop Tank Selection.md
+- [x] Updated: 7 Air Units\7.15.2.2 Costs of Longer-Range Missions.md
+- [x] Updated: 7 Air Units\7.16 Air Unit Targets and Destinations.md
+- [x] Updated: 7 Air Units\7.16.1 Setting Targets.md
+- [x] Updated: 7 Air Units\7.16.2 Automatic Target Selection for Air Units Lacking a Set Target.md
+- [x] Updated: 7 Air Units\7.16.3 Failure to Find the Target.md
+- [x] Updated: 7 Air Units\7.17 CAP, Nav Search, ASW Patrol and Training Levels.md
+- [x] Updated: 7 Air Units\7.18 Impact of Altitude Selection.md
+- [x] Updated: 7 Air Units\7.19 Impact of Altitude on AA Fire.md
+- [x] Updated: 7 Air Units\7.2 Variants and Refits.md
+- [x] Updated: 7 Air Units\7.2.1 Variants.md
+- [x] Updated: 7 Air Units\7.2.2 Refits.md
+- [x] Updated: 7 Air Units\7.20 Impact of Ordnance on Air Missions.md
+- [x] Updated: 7 Air Units\7.21 Coordinating Strikes.md
+- [x] Updated: 7 Air Units\7.22 The Approach Leg.md
+- [x] Updated: 7 Air Units\7.23 Shielding Bombers.md
+- [x] Updated: 7 Air Units\7.24 Weather and Aborted Missions.md
+- [x] Updated: 7 Air Units\7.25 Mission Limitations and Runway Size.md
+- [x] Updated: 7 Air Units\7.25.1 Size of Airfield Runways.md
+- [x] Updated: 7 Air Units\7.25.2 Damage Effects on Runway Size.md
+- [x] Updated: 7 Air Units\7.26 Political Situation and Airfields.md
+- [x] Updated: 7 Air Units\7.27 Operational Losses of Aircraft.md
+- [x] Updated: 7 Air Units\7.28 Withdrawing and Disbanding.md
+- [x] Updated: 7 Air Units\7.28.1 Withdrawing Air Units.md
+- [x] Updated: 7 Air Units\7.28.2 Disbanding Air Units.md
+- [x] Updated: 7 Air Units\7.28.2.1 Forced Disbandment of Air Units.md
+- [x] Updated: 7 Air Units\7.29 Transfers and Ferry Units.md
+- [x] Updated: 7 Air Units\7.29.1 Air Transfers.md
+- [x] Updated: 7 Air Units\7.29.2 Transfers from Captured Airfields.md
+- [x] Updated: 7 Air Units\7.29.3 Ferry groups.md
+- [x] Updated: 7 Air Units\7.3 Aviation Support.md
+- [x] Updated: 7 Air Units\7.30 Air Transport of Troops and Supply.md
+- [x] Updated: 7 Air Units\7.30.1 Troop Air Transport.md
+- [x] Updated: 7 Air Units\7.30.2 Air Dropping of Troops.md
+- [x] Updated: 7 Air Units\7.30.3 Air Transport of Troops Between Bases.md
+- [x] Updated: 7 Air Units\7.30.4 Air Dropping Supply.md
+- [x] Updated: 7 Air Units\7.30.5 Air Transporting Supply and Industrial Products Between Bases.md
+- [x] Updated: 7 Air Units\7.31 Air Unit Resizing.md
+- [x] Updated: 7 Air Units\7.32 Air Unit Creation.md
+- [x] Updated: 7 Air Units\7.32.1 Air Unit Creation Procedure.md
+- [x] Updated: 7 Air Units\7.33 Air Unit Detachments.md
+- [x] Updated: 7 Air Units\7.34 Air Combat.md
+- [x] Updated: 7 Air Units\7.34.1 Air Strikes.md
+- [x] Updated: 7 Air Units\7.34.2 Combat Air Patrol (CAP).md
+- [x] Updated: 7 Air Units\7.34.2.1 CAP and Radar Early Warning.md
+- [x] Updated: 7 Air Units\7.34.3 Naval Search and Radar.md
+- [x] Updated: 7 Air Units\7.35 Air-To-Air Combat.md
+- [x] Updated: 7 Air Units\7.35.1 Technology Bonus.md
+- [x] Updated: 7 Air Units\7.35.2 Air Attack Animations.md
+- [x] Updated: 7 Air Units\7.35.2.1 Air to Air Combat Graphic.md
+- [x] Updated: 7 Air Units\7.35.2.2 Naval Air Attack Animations.md
+- [x] Updated: 7 Air Units\7.36 After Action Reports (AAR).md
+- [x] Updated: 7 Air Units\7.37 Bombers in Combat.md
+- [x] Updated: 7 Air Units\7.38 Altitudes.md
+- [x] Updated: 7 Air Units\7.39 Range of Missions.md
+- [x] Updated: 7 Air Units\7.4 Aircraft Sidebar.md
+- [x] Updated: 7 Air Units\7.40 Incidental Air Combat.md
+- [x] Updated: 7 Air Units\7.41 Aircraft Damage.md
+- [x] Updated: 7 Air Units\7.42 Aircraft Maintenance.md
+- [x] Updated: 7 Air Units\7.43 Setting Search and Attack Arcs.md
+- [x] Updated: 7 Air Units\7.5 Basing Aircraft.md
+- [x] Updated: 7 Air Units\7.5.1 Aircraft Status on Airfields.md
+- [x] Updated: 7 Air Units\7.5.2 Patrol and Float Aircraft.md
+- [x] Updated: 7 Air Units\7.5.2.1 Aircraft Status on Ships.md
+- [x] Updated: 7 Air Units\7.5.2.2 Loading Aircraft.md
+- [x] Updated: 7 Air Units\7.6 Emergency Landings.md
+- [x] Updated: 7 Air Units\7.7 Air Unit Information Screen.md
+- [x] Updated: 7 Air Units\7.7.1 Air Unit Screen - Main Missions.md
+- [x] Updated: 7 Air Units\7.7.1 Air Unit Screen - Side Missions.md
+- [x] Updated: 7 Air Units\7.7.1 Detailed Information for the Air Unit Screen.md
+- [x] Updated: 7 Air Units\7.7.2 Aircraft Pools.md
+- [x] Updated: 7 Air Units\7.7.3 Pilot Screen.md
+- [x] Updated: 7 Air Units\7.7.4 Merge Unit Screen.md
+- [x] Updated: 7 Air Units\7.7.5 Aircraft Information Screen.md
+- [x] Updated: 7 Air Units\7.8 Aircraft Restrictions.md
+- [x] Updated: 7 Air Units\7.9 Aircraft Transfers Between Bases.md
+- [x] Updated: 8 Ground Units\8.1 Unit Nations and Types.md
+- [x] Updated: 8 Ground Units\8.1.1 Headquarters.md
+- [x] Updated: 8 Ground Units\8.1.10 Special Forces.md
+- [x] Updated: 8 Ground Units\8.1.2 Infantry, Cavalry and Parachute Infantry.md
+- [x] Updated: 8 Ground Units\8.1.3 Armor.md
+- [x] Updated: 8 Ground Units\8.1.4 Engineers.md
+- [x] Updated: 8 Ground Units\8.1.5 Anti-Aircraft Artillery (AAA).md
+- [x] Updated: 8 Ground Units\8.1.6 Artillery, Infantry Guns, and Anti-Tank Guns.md
+- [x] Updated: 8 Ground Units\8.1.7 Coastal Defense Units (CD).md
+- [x] Updated: 8 Ground Units\8.1.8 Logistic Units.md
+- [x] Updated: 8 Ground Units\8.1.9 Reserve Units (RSV).md
+- [x] Updated: 8 Ground Units\8.10 Forts.md
+- [x] Updated: 8 Ground Units\8.11 Upgrades.md
+- [x] Updated: 8 Ground Units\8.2 Ground Unit Information Screens.md
+- [x] Updated: 8 Ground Units\8.2.1 LCU List.md
+- [x] Updated: 8 Ground Units\8.2.10 Unit TOE Screen.md
+- [x] Updated: 8 Ground Units\8.2.11 Unit Merge Screen.md
+- [x] Updated: 8 Ground Units\8.2.12 Unit Organization Screen.md
+- [x] Updated: 8 Ground Units\8.2.13 Combat Group Screen.md
+- [x] Updated: 8 Ground Units\8.2.2 Unit Details Screen.md
+- [x] Updated: 8 Ground Units\8.2.3 Combat Orders Screen.md
+- [x] Updated: 8 Ground Units\8.2.4 Group Movement Orders Screen.md
+- [x] Updated: 8 Ground Units\8.2.5 Replacement Screen.md
+- [x] Updated: 8 Ground Units\8.2.6 Unit Devices.md
+- [x] Updated: 8 Ground Units\8.2.7 Ground Unit Sidebar.md
+- [x] Updated: 8 Ground Units\8.2.8 Unit Information Screen.md
+- [x] Updated: 8 Ground Units\8.2.8.1 Operation Modes.md
+- [x] Updated: 8 Ground Units\8.2.8.2 Combat Orders.md
+- [x] Updated: 8 Ground Units\8.2.8.3 Group Commands.md
+- [x] Updated: 8 Ground Units\8.2.9 The Ground Unit Device Information Screen.md
+- [x] Updated: 8 Ground Units\8.3 LCU Training.md
+- [x] Updated: 8 Ground Units\8.4 Ground Unit Movement.md
+- [x] Updated: 8 Ground Units\8.4.1 Overland Movement (Not Strategic Movement).md
+- [x] Updated: 8 Ground Units\8.4.2 Movement along Railway Lines.md
+- [x] Updated: 8 Ground Units\8.4.3 Zones of Control (ZoC) and the Effects.md
+- [x] Updated: 8 Ground Units\8.4.4 Land Movement Between the Map and Off Map Areas.md
+- [x] Updated: 8 Ground Units\8.4.5 Transporting Ground Units.md
+- [x] Updated: 8 Ground Units\8.5 Counter Invasion Forces.md
+- [x] Updated: 8 Ground Units\8.6 Ground Combat.md
+- [x] Updated: 8 Ground Units\8.6.1 Terrain Modifiers.md
+- [x] Updated: 8 Ground Units\8.6.2 Ground Combat Resolution.md
+- [x] Updated: 8 Ground Units\8.6.2.1 Counter Battery Fire.md
+- [x] Updated: 8 Ground Units\8.6.2.2 Ground Combat Sequence.md
+- [x] Updated: 8 Ground Units\8.6.2.3 Ground Combat Results.md
+- [x] Updated: 8 Ground Units\8.6.3 Captured Devices.md
+- [x] Updated: 8 Ground Units\8.6.4 Suppression Fire.md
+- [x] Updated: 8 Ground Units\8.6.5 Bridge and Beach Heads.md
+- [x] Updated: 8 Ground Units\8.6.6 Breakthroughs.md
+- [x] Updated: 8 Ground Units\8.6.7 Retreats.md
+- [x] Updated: 8 Ground Units\8.6.8 Ground Combat Aftermath.md
+- [x] Updated: 8 Ground Units\8.7 Ground Units and Fortifications.md
+- [x] Updated: 8 Ground Units\8.7.1 Static Fortifications.md
+- [x] Updated: 8 Ground Units\8.8 Disruption, Morale, Fatigue.md
+- [x] Updated: 8 Ground Units\8.8.1 Disruption.md
+- [x] Updated: 8 Ground Units\8.8.2 Morale.md
+- [x] Updated: 8 Ground Units\8.8.3 Fatigue.md
+- [x] Updated: 8 Ground Units\8.8.4 Suppression.md
+- [x] Updated: 8 Ground Units\8.9 Island Stacking.md

@@ -23,8 +23,3 @@ J.M. Manrique Garcia
 La campaña de Teruel, Francisco Javier Aguirre Azaña Especiales de la Guerra Civil (Madrid, Vizcaya, Asturias, Belchite,
 
 Valencia, Ebro), ed. Desperta Ferro
-
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **423** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

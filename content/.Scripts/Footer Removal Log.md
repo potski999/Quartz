@@ -1,0 +1,257 @@
+﻿# Footer Removal Log
+**Date:** 2026-05-01
+**Action:** Removed 'Original Source Reference' footers from manual files.
+
+- [x] Removed footer from: 1 Introduction.md
+- [x] Removed footer from: 10.1 The Benefits of a Base.md
+- [x] Removed footer from: 10.2 Base Information.md
+- [x] Removed footer from: 10.2.1 Base Information Screen.md
+- [x] Removed footer from: 10.2.2 Additional Base Information.md
+- [x] Removed footer from: 10.2.3 Standard Potential Size (SPS).md
+- [x] Removed footer from: 10.3 Base Symbols.md
+- [x] Removed footer from: 10.3.5 Base with LCU Present.md
+- [x] Removed footer from: 10.4 Base Details.md
+- [x] Removed footer from: 10.4.1 Base Ownership.md
+- [x] Removed footer from: 10.5 Ports.md
+- [x] Removed footer from: 10.5.2 Ships Caught in Captured Ports.md
+- [x] Removed footer from: 10.5.3 Port Size and Rearming.md
+- [x] Removed footer from: 10.5.4 Ships Docked.md
+- [x] Removed footer from: 10.5.6 Naval Support Adjustments.md
+- [x] Removed footer from: 10.6 Airfields.md
+- [x] Removed footer from: 10.7 Base Construction and Repair.md
+- [x] Removed footer from: 10.8 The Hex Information Display.md
+- [x] Removed footer from: 10.9 Outposts.md
+- [x] Removed footer from: 11.1 Spotting Enemy Units.md
+- [x] Removed footer from: 11.2.1 Detection Level Particulars.md
+- [x] Removed footer from: 11.3 Recon Flights.md
+- [x] Removed footer from: 11.5 Information given regarding.md
+- [x] Removed footer from: 12.1 Changing Leaders.md
+- [x] Removed footer from: 12.2 Political System.md
+- [x] Removed footer from: 12.2.2 Armistice and Surrender.md
+- [x] Removed footer from: 13.1.1 The Beaufort Scale.md
+- [x] Removed footer from: 13.1.2 Weather Types.md
+- [x] Removed footer from: 14 Production.md
+- [x] Removed footer from: 14.1 Production Buttons.md
+- [x] Removed footer from: 14.1.1 Location Industry Screen.md
+- [x] Removed footer from: 14.10 Supply Production.md
+- [x] Removed footer from: 14.11 Industry.md
+- [x] Removed footer from: 14.13 Ground Units.md
+- [x] Removed footer from: 14.2 Advanced Economy Model and.md
+- [x] Removed footer from: 14.2.1 Heavy Industry.md
+- [x] Removed footer from: 14.2.4 Merchant Shipyard.md
+- [x] Removed footer from: 14.2.6 AFV Factory.md
+- [x] Removed footer from: 14.2.7 Aircraft Factory.md
+- [x] Removed footer from: 14.3 Factory Device List.md
+- [x] Removed footer from: 14.4 Shipyard Industry Screen.md
+- [x] Removed footer from: 14.4.1 Laydown New Ship Screen.md
+- [x] Removed footer from: 14.4.2 Convert Ship During Construction.md
+- [x] Removed footer from: 14.5.1 Research Projects.md
+- [x] Removed footer from: 14.5.2 Technology Types.md
+- [x] Removed footer from: 14.6 Player Alteration to Production Capabilities.md
+- [x] Removed footer from: 14.7 Industry Management Screen.md
+- [x] Removed footer from: 14.8 Industrial CentersFactories.md
+- [x] Removed footer from: 14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
+- [x] Removed footer from: 15.1.2 Conversions.md
+- [x] Removed footer from: 15.2.1 Damage.md
+- [x] Removed footer from: 15.2.2 Gameplay.md
+- [x] Removed footer from: 15.2.2.1 Modify Repair For Damaged Ships in Port.md
+- [x] Removed footer from: 15.2.3 Repair Modes.md
+- [x] Removed footer from: 15.2.5 Subsystem Damage and Repair.md
+- [x] Removed footer from: 16.1 Replacements Models.md
+- [x] Removed footer from: 16.2 Connected Bases.md
+- [x] Removed footer from: 16.4 Air Unit Replacements.md
+- [x] Removed footer from: 16.4.2 Aircraft Upgrades.md
+- [x] Removed footer from: 16.5 Pilot Replacements.md
+- [x] Removed footer from: 16.5.1 Pilot Management.md
+- [x] Removed footer from: 16.6.1 Ground Reserve Units (RSV).md
+- [x] Removed footer from: 16.6.2 Ground Unit Weapon Upgrades.md
+- [x] Removed footer from: 16.7 Arrivals at Enemy Occupied Bases.md
+- [x] Removed footer from: 17 Victory Conditions.md
+- [x] Removed footer from: 17.1 Victory Levels.md
+- [x] Removed footer from: 17.3.1 Loss of Life Value.md
+- [x] Removed footer from: 17.4 Loss Tolerance.md
+- [x] Removed footer from: 18.4 General Rules on Withdrawing.md
+- [x] Removed footer from: 19.13 Sub Port Attack.md
+- [x] Removed footer from: 19.17 Air Combat and Air Tactics.md
+- [x] Removed footer from: 19.18 Naval Air Attack and Scouting.md
+- [x] Removed footer from: 19.22 Airborne Assaults.md
+- [x] Removed footer from: 19.25 Modding Aircraft Carriers.md
+- [x] Removed footer from: 19.3 Mining.md
+- [x] Removed footer from: 19.6 Emergency Evacuation of Troops.md
+- [x] Removed footer from: 19.9 Commandos.md
+- [x] Removed footer from: 20.2 Naval Combat.md
+- [x] Removed footer from: 20.3 Air-to-Air Combat.md
+- [x] Removed footer from: 21.1 Glossary of Game Abbreviations.md
+- [x] Removed footer from: 21.2 Unit Name Translations.md
+- [x] Removed footer from: 21.3 Rank Translations.md
+- [x] Removed footer from: 21.4 Ship Types Table.md
+- [x] Removed footer from: 21.5 Updating an On-going PBEM Game.md
+- [x] Removed footer from: 21.6 Hotkeys.md
+- [x] Removed footer from: 22 Designers Notes.md
+- [x] Removed footer from: 23 References.md
+- [x] Removed footer from: 24 Piteas’s Historical Stories and Information.md
+- [x] Removed footer from: 25 Credits.md
+- [x] Removed footer from: 4 The Main Map Display.md
+- [x] Removed footer from: 7.1 Aircraft Types.md
+- [x] Removed footer from: 7.10 Air Sequence of Play.md
+- [x] Removed footer from: 7.10.2 Assigning Aircraft Missions.md
+- [x] Removed footer from: 7.10.4 DayNight Air Operations Sequence of Play.md
+- [x] Removed footer from: 7.11 Mission Types by Aircraft Type.md
+- [x] Removed footer from: 7.12 Morale, Readiness and Air Missions.md
+- [x] Removed footer from: 7.13 Over Stacking at Airfields.md
+- [x] Removed footer from: 7.15 Aircraft Range and Air Missions.md
+- [x] Removed footer from: 7.15.2 Drop Tank Ranges.md
+- [x] Removed footer from: 7.16.1 Setting Targets.md
+- [x] Removed footer from: 7.16.2 Automatic Target Selection for Air Units.md
+- [x] Removed footer from: 7.17 CAP, Nav Search, ASW Patrol and.md
+- [x] Removed footer from: 7.18 Impact of Altitude Selection.md
+- [x] Removed footer from: 7.2.1 Variants.md
+- [x] Removed footer from: 7.20 Impact of Ordnance on Air Missions.md
+- [x] Removed footer from: 7.21 Coordinating Strikes.md
+- [x] Removed footer from: 7.24 Weather and Aborted Missions.md
+- [x] Removed footer from: 7.25.2 Damage Effects on Runway Size.md
+- [x] Removed footer from: 7.28 Withdrawing and Disbanding.md
+- [x] Removed footer from: 7.28.2 Disbanding Air Units.md
+- [x] Removed footer from: 7.29.3 Ferry groups.md
+- [x] Removed footer from: 7.3 Aviation Support.md
+- [x] Removed footer from: 7.30.1 Troop Air Transport.md
+- [x] Removed footer from: 7.30.5 Air Transporting Supply and Industrial.md
+- [x] Removed footer from: 7.32.1 Air Unit Creation Procedure.md
+- [x] Removed footer from: 7.34.1 Air Strikes.md
+- [x] Removed footer from: 7.34.2 Combat Air Patrol (CAP).md
+- [x] Removed footer from: 7.35 Air-To-Air Combat.md
+- [x] Removed footer from: 7.35.2 Air Attack Animations.md
+- [x] Removed footer from: 7.37 Bombers in Combat.md
+- [x] Removed footer from: 7.39 Range of Missions.md
+- [x] Removed footer from: 7.42 Aircraft Maintenance.md
+- [x] Removed footer from: 7.43 Setting Search and Attack Arcs.md
+- [x] Removed footer from: 7.5.1 Aircraft Status on Airfields.md
+- [x] Removed footer from: 7.5.2 Patrol and Float Aircraft.md
+- [x] Removed footer from: 7.6 Emergency Landings.md
+- [x] Removed footer from: 7.7.1 Detailed Information for the Air Unit Screen.md
+- [x] Removed footer from: 7.7.2 Aircraft Pools.md
+- [x] Removed footer from: 7.7.3 Pilot Screen.md
+- [x] Removed footer from: 7.7.4 Merge Unit Screen.md
+- [x] Removed footer from: 7.7.5 Aircraft Information Screen.md
+- [x] Removed footer from: 8.1 Unit Nations and Types.md
+- [x] Removed footer from: 8.1.1 Headquarters.md
+- [x] Removed footer from: 8.1.10 Special Forces.md
+- [x] Removed footer from: 8.1.4 Engineers.md
+- [x] Removed footer from: 8.1.6 Artillery, Infantry Guns, and Anti-Tank Guns.md
+- [x] Removed footer from: 8.1.8 Logistic Units.md
+- [x] Removed footer from: 8.10 Forts.md
+- [x] Removed footer from: 8.11 Upgrades.md
+- [x] Removed footer from: 8.2.1 LCU List.md
+- [x] Removed footer from: 8.2.10 Unit TOE Screen.md
+- [x] Removed footer from: 8.2.11 Unit Merge Screen.md
+- [x] Removed footer from: 8.2.12 Unit Organization Screen.md
+- [x] Removed footer from: 8.2.13 Combat Group Screen.md
+- [x] Removed footer from: 8.2.2 Unit Details Screen.md
+- [x] Removed footer from: 8.2.3 Combat Orders Screen.md
+- [x] Removed footer from: 8.2.4 Group Movement Orders Screen.md
+- [x] Removed footer from: 8.2.5 Replacement Screen.md
+- [x] Removed footer from: 8.2.6 Unit Devices.md
+- [x] Removed footer from: 8.2.7 Ground Unit Sidebar.md
+- [x] Removed footer from: 8.2.8 Unit Information Screen.md
+- [x] Removed footer from: 8.2.9 The Ground Unit Device Information Screen.md
+- [x] Removed footer from: 8.4 Ground Unit Movement.md
+- [x] Removed footer from: 8.4.1 Overland Movement (Not Strategic Movement).md
+- [x] Removed footer from: 8.4.3 Zones of Control (ZoC) and the Effects.md
+- [x] Removed footer from: 8.5 Counter Invasion Forces.md
+- [x] Removed footer from: 8.6.1 Terrain Modifiers.md
+- [x] Removed footer from: 8.6.4 Suppression Fire.md
+- [x] Removed footer from: 8.6.6 Breakthroughs.md
+- [x] Removed footer from: 8.6.7 Retreats.md
+- [x] Removed footer from: 8.6.8 Ground Combat Aftermath.md
+- [x] Removed footer from: 8.7.1 Static Fortifications.md
+- [x] Removed footer from: 8.8.2 Morale.md
+- [x] Removed footer from: 8.9 Island Stacking.md
+- [x] Removed footer from: 9.1 Unit Logistics Screen.md
+- [x] Removed footer from: 9.2 Logistics Models.md
+- [x] Removed footer from: 9.3 Supply Types.md
+- [x] Removed footer from: 9.4 Supply Draw.md
+- [x] Removed footer from: 9.5.1 Supply Operations Sequence of Play.md
+- [x] Removed footer from: 9.5.2 Naval Rearming.md
+- [x] Removed footer from: 9.5.3 Ground Unit Supply.md
+- [x] Removed footer from: 9.5.4 Air Unit Supply.md
+- [x] Removed footer from: 9.7 Capturing Base Resources.md
+- [x] Removed footer from: 9.8 Spoilage.md
+- [x] Removed footer from: 9.9.1 Railroad Operations.md
+- [x] Removed footer from: 9.9.3 Truck Transportation.md
+- [x] Removed footer from: 9.9.5 Indigenous Capacity.md
+- [x] Removed footer from: 1 Introduction\1.1 New Game Engine.md
+- [x] Removed footer from: 1 Introduction\1.10 Technical Support.md
+- [x] Removed footer from: 1 Introduction\1.3 Editor Manual.md
+- [x] Removed footer from: 1 Introduction\1.4 Installation.md
+- [x] Removed footer from: 1 Introduction\1.7 Register Your Game, Re-Download.md
+- [x] Removed footer from: 1 Introduction\1.8 Unified Login System.md
+- [x] Removed footer from: 2 Getting Started\2.1 Interface.md
+- [x] Removed footer from: 2 Getting Started\2.2 Main Game Menu.md
+- [x] Removed footer from: 2 Getting Started\2.2.2.1.1 Advanced Preferences Screen.md
+- [x] Removed footer from: 2 Getting Started\2.2.4 Scenario Selection.md
+- [x] Removed footer from: 2 Getting Started\2.3 Begin a New Game.md
+- [x] Removed footer from: 2 Getting Started\2.3.1 Tutorial Scenario.md
+- [x] Removed footer from: 3 Game Modes and the Sequence of Play\3.2 PBEM Games.md
+- [x] Removed footer from: 3 Game Modes and the Sequence of Play\3.2.1 PBEM Sequence of Play.md
+- [x] Removed footer from: 3 Game Modes and the Sequence of Play\3.3.1 WEGO Team Games Setup.md
+- [x] Removed footer from: 3 Game Modes and the Sequence of Play\3.4 Key code.md
+- [x] Removed footer from: 3 Game Modes and the Sequence of Play\3.5 Head-to-Head Games.md
+- [x] Removed footer from: 4 The Main Map Display\4.1 The Menu Bar.md
+- [x] Removed footer from: 4 The Main Map Display\4.2 The Tactical Map.md
+- [x] Removed footer from: 4 The Main Map Display\4.2.1 Terrain.md
+- [x] Removed footer from: 4 The Main Map Display\4.2.2 Tactical Map Icons.md
+- [x] Removed footer from: 4 The Main Map Display\4.2.3 Off Map Bases and Ocean Links.md
+- [x] Removed footer from: 4 The Main Map Display\4.3 Hex Information Display.md
+- [x] Removed footer from: 4 The Main Map Display\4.4 Jump Map.md
+- [x] Removed footer from: 4 The Main Map Display\4.5.1 Base Icon Display.md
+- [x] Removed footer from: 4 The Main Map Display\4.5.2 Mouse Over Information of Land Combat Unit.md
+- [x] Removed footer from: 4 The Main Map Display\4.5.3 Airfield Icon.md
+- [x] Removed footer from: 4 The Main Map Display\4.5.4 Anchored Ships Icon.md
+- [x] Removed footer from: 4 The Main Map Display\4.5.5 Task Force Icon.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1 Overview Report for Nations Screen in Detail.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.10 Politics.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.17 Research and Development.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.19 Aircraft Lost.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.2 Loss of Life Value.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.3 Aircraft Production Etc.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.4 Replace all Ship Captains with Adequate Captains.md
+- [x] Removed footer from: 5 Overview Report for Nations Screen\5.1.7 Save As First Turn Setup.md
+- [x] Removed footer from: 6 Naval Units\6.1 Task Forces and Ships.md
+- [x] Removed footer from: 6 Naval Units\6.1.1 Task Force Symbols.md
+- [x] Removed footer from: 6 Naval Units\6.1.2 Task Force Information Screen.md
+- [x] Removed footer from: 6 Naval Units\6.1.3 Ship Information Screen.md
+- [x] Removed footer from: 6 Naval Units\6.11 Task Force Officers.md
+- [x] Removed footer from: 6 Naval Units\6.13.1 Surface Combat.md
+- [x] Removed footer from: 6 Naval Units\6.13.4 Naval Combat Animations.md
+- [x] Removed footer from: 6 Naval Units\6.13.6 Submarine Warfare.md
+- [x] Removed footer from: 6 Naval Units\6.14 Damage to Ships.md
+- [x] Removed footer from: 6 Naval Units\6.14.1 Sub-System Damage.md
+- [x] Removed footer from: 6 Naval Units\6.14.2 Operational Damage and Repairs at Sea.md
+- [x] Removed footer from: 6 Naval Units\6.15 Mine Laying Task Forces and Mine Warfare.md
+- [x] Removed footer from: 6 Naval Units\6.15.3 Minelaying Ships.md
+- [x] Removed footer from: 6 Naval Units\6.15.5 Minesweeping.md
+- [x] Removed footer from: 6 Naval Units\6.15.6 Mine Warfare Ship Classes Table.md
+- [x] Removed footer from: 6 Naval Units\6.15.7 Mine Types.md
+- [x] Removed footer from: 6 Naval Units\6.16 Creating PT Boats Etc.md
+- [x] Removed footer from: 6 Naval Units\6.18 Withdrawal and Return of Ships.md
+- [x] Removed footer from: 6 Naval Units\6.19 Special Coast Defense Convoy Units.md
+- [x] Removed footer from: 6 Naval Units\6.2 Creating a Task Force.md
+- [x] Removed footer from: 6 Naval Units\6.2.1 Task Force Formations.md
+- [x] Removed footer from: 6 Naval Units\6.2.10 TF Returning to Home Base.md
+- [x] Removed footer from: 6 Naval Units\6.2.3 Task Force Speed.md
+- [x] Removed footer from: 6 Naval Units\6.2.4 Automatic Ship Separation from TF Etc.md
+- [x] Removed footer from: 6 Naval Units\6.2.6 Mission Types and their Impact on Movement.md
+- [x] Removed footer from: 6 Naval Units\6.2.7 Assigning TF Destinations.md
+- [x] Removed footer from: 6 Naval Units\6.3.1 Naval Movement from Main Map.md
+- [x] Removed footer from: 6 Naval Units\6.3.2 Naval Movement from Off-Map Area.md
+- [x] Removed footer from: 6 Naval Units\6.3.3 Naval Movement Between Connected Off-Map Areas.md
+- [x] Removed footer from: 6 Naval Units\6.4 Submarines.md
+- [x] Removed footer from: 6 Naval Units\6.5 Ship Endurance.md
+- [x] Removed footer from: 6 Naval Units\6.5.1 Refueling in Port and at Sea.md
+- [x] Removed footer from: 6 Naval Units\6.6 Operation Points.md
+- [x] Removed footer from: 6 Naval Units\6.7.2 Cargo Transfer Rate.md
+- [x] Removed footer from: 6 Naval Units\6.8.1 Loading Men and Materials.md
+- [x] Removed footer from: 6 Naval Units\6.8.2 Ship Capacity Types.md
+- [x] Removed footer from: 6 Naval Units\6.8.3 Cross-Load Adjustments and Daily Fatigue.md
+- [x] Removed footer from: 6 Naval Units\6.9.2 Loading Units.md
+- [x] Removed footer from: 6 Naval Units\6.9.3 Task Force Unloading.md

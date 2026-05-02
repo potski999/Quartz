@@ -15,8 +15,3 @@ draft: false
 [[Ten famous weapons that debuted in the Spanish Civil War]]
 
 [[Spanish Battleship Jaime I]]
-
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

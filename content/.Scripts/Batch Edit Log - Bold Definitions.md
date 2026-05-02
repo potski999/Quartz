@@ -1,78 +1,15 @@
-﻿# Batch Edit Log: Bold Definitions
-**Date:** 2026-04-29
-**Description:** Automatically applied bold formatting to glossary-style terms preceding a dash at the start of paragraphs or sentences.
+﻿# Batch Edit Log - Bold Definitions
+**Date:** 2026-04-30
+**Action:** Programmatically applied bold formatting to glossary-style terms preceding a dash.
 
-## Files Modified:
-- 10.2.1 Base Information Screen.md
-- 10.2.2 Additional Base Information.md
-- 10.2.3 Standard Potential Size (SPS).md
-- 10.7 Base Construction and Repair.md
-- 11.2.1 Detection Level Particulars.md
-- 13.1.2 Weather Types.md
-- 14 Production.md
-- 14.11 Industry.md
-- 14.2.1 Heavy Industry.md
-- 14.5.2 Technology Types.md
-- 14.7 Industry Management Screen.md
-- 14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
-- 15.2.3 Repair Modes.md
-- 16.1 Replacements Models.md
-- 16.4.2 Aircraft Upgrades.md
-- 16.5 Pilot Replacements.md
-- 16.5.1 Pilot Management.md
-- 16.6.2 Ground Unit Weapon Upgrades.md
-- 17 Victory Conditions.md
-- 17.1 Victory Levels.md
-- 22 Designers Notes.md
-- 25 Credits.md
-- 3 Game Modes and the Sequence of Play.md
-- 4 The Main Map Display.md
-- 7.1 Aircraft Types.md
-- 7.10.2 Assigning Aircraft Missions.md
-- 7.12 Morale, Readiness and Air Missions.md
-- 7.18 Impact of Altitude Selection.md
-- 7.29.3 Ferry groups.md
-- 7.3 Aviation Support.md
-- 7.35.2 Air Attack Animations.md
-- 7.7.1 Detailed Information for the Air Unit Screen.md
-- 7.7.5 Aircraft Information Screen.md
-- 8.1 Unit Nations and Types.md
-- 8.1.6 Artillery, Infantry Guns, and Anti-Tank Guns.md
-- 8.10 Forts.md
-- 8.2.6 Unit Devices.md
-- 8.2.8 Unit Information Screen.md
-- 8.2.8.1 Operation Modes.md
-- 8.2.8.2 Combat Orders.md
-- 8.2.8.3 Group Commands.md
-- 8.6.7 Retreats.md
-- 9.1 Unit Logistics Screen.md
-- 9.2 Logistics Models.md
-- 9.3 Supply Types.md
-- Ten famous weapons that debuted in the Spanish Civil War.md
-- 1 Introduction\1.3 Editor Manual.md
-- 1 Introduction\1.4 Installation.md
-- 1 Introduction\1.7 Register Your Game, Re-Download.md
-- 2 Getting Started\2.1 Interface.md
-- 2 Getting Started\2.2.1 Game Play Options.md
-- 2 Getting Started\2.2.2.1 General Game Rule Settings (Preferences).md
-- 2 Getting Started\2.2.2.1.1 Advanced Preferences Screen.md
-- 4 The Main Map Display\4.1 The Menu Bar.md
-- 4 The Main Map Display\4.2.1.2 Hex Side Types.md
-- 4 The Main Map Display\4.2.1.2.1 Movement through Hex Sides.md
-- 4 The Main Map Display\4.2.1.3 Land Transportation Links.md
-- 4 The Main Map Display\4.2.3 Off Map Bases and Ocean Links.md
-- 4 The Main Map Display\4.3 Hex Information Display.md
-- 4 The Main Map Display\4.5.1 Base Icon Display.md
-- 6 Naval Units\6.1.1.1 Task Force Missions.md
-- 6 Naval Units\6.1.2.2.4 Routing Control.md
-- 6 Naval Units\6.1.2.2.5 Threat Tolerance.md
-- 6 Naval Units\6.1.3.1.1 Upgrades Conversions Damage and Requirements.md
-- 6 Naval Units\6.13.5 Ship-to-Shore Bombardment.md
-- 6 Naval Units\6.14.1 Sub-System Damage.md
-- 6 Naval Units\6.15.2.2 Minefield Tenders.md
-- 6 Naval Units\6.2.1 Task Force Formations.md
-- 6 Naval Units\6.2.3 Task Force Speed.md
-- 6 Naval Units\6.3.2 Naval Movement from Off-Map Area.md
-- 6 Naval Units\6.5.1 Refueling in Port and at Sea.md
-- 6 Naval Units\6.9.2.5 Port Load Rate Adjustments.md
-- 6 Naval Units\6.9.3.2 Amphibious Unloading.md
+- [x] Updated: 12.1 Changing Leaders.md
+- [x] Updated: 14.6 Player Alteration to Production Capabilities.md
+- [x] Updated: 14.8.1 Coal, Oil, Fuel, Supplies and Manpower.md
+- [x] Updated: 22 Designers Notes.md
+- [x] Updated: 7.10.4 DayNight Air Operations Sequence of Play.md
+- [x] Updated: 7.24 Weather and Aborted Missions.md
+- [x] Updated: 7.5.1 Aircraft Status on Airfields.md
+- [x] Updated: 8.1 Unit Nations and Types.md
+- [x] Updated: 8.2.8.1 Operation Modes.md
+- [x] Updated: 2 Getting Started\2.1 Interface.md
+- [x] Updated: 2 Getting Started\2.2.2.1.1 Advanced Preferences Screen.md

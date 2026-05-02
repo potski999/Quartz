@@ -1,4 +1,4 @@
-﻿---
+---
 title: War in Spain Manual
 draft: false
 ---

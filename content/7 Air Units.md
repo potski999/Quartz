@@ -1,4 +1,4 @@
-﻿---
+---
 draft: false
 ---
 
@@ -17,7 +17,7 @@ Air units (also called air generally depict groups) squadrons or similar formati
 * [[7.6 Emergency Landings]]
 * [[7.7 Air Unit Information Screen]]
 * [[7.8 Aircraft Restrictions]]
-* [[7.9 Aircraft Transfers Between]]
+* [[7.9 Aircraft Transfers Between Bases]]
 * [[7.10 Air Sequence of Play]]
 * [[7.11 Mission Types by Aircraft Type]]
 * [[7.12 Morale, Readiness and Air Missions]]
@@ -25,7 +25,7 @@ Air units (also called air generally depict groups) squadrons or similar formati
 * [[7.14 Air HQs and Air Missions]]
 * [[7.15 Aircraft Range and Air Missions]]
 * [[7.16 Air Unit Targets and Destinations]]
-* [[7.17 CAP, Nav Search, ASW Patrol and]]
+* [[7.17 CAP, Nav Search, ASW Patrol and Training Levels]]
 * [[7.18 Impact of Altitude Selection]]
 * [[7.19 Impact of Altitude on AA Fire]]
 * [[7.20 Impact of Ordnance on Air Missions]]

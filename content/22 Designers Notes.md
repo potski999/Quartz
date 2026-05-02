@@ -4,7 +4,7 @@ draft: false
 
 # 22 Designers Notes
 
-**Project Lead** – Joe Wilkerson
+****Project Lead** – Joe Wilkerson**
 
 A little about me.  **I was the project lead on the War in the Pacific** – Admiral’s Edition project as well and since that project completed, I wanted to do more games with a new engine. We started on that 3 times but never had enough momentum to push it through to completion. People were getting married, having kids, doing all sorts of distracting things :)
 
@@ -14,9 +14,7 @@ So, we agreed to work together, build a team and make some games. We started on 
 
 Gradually in 2019 we built up the team ... all living members of the AE team were invited ... a few joined ... a few more visited ... and a few others said they’d be coming when they could.
 
-We have 5 AE team members now, which is about half the “core”
-
-team for WIS.
+We have 5 AE team members now, which is about half the “core” team for WIS.
 
 We continued to work on a game that wasn’t WIS, until about 2022, when one team member got a wild idea and asked if he could work on a Spanish Civil War game – thinking we could “knock that one out quickly. Doing a game on that war happened to be on my “bucket list”.
 
@@ -28,15 +26,10 @@ The biggest area I was directly involved in was the AI.  And I’m specifically 
 
 Of course, the data team was researching the data and building the devices and units for air, land and sea ... and the functional leads came in and reviewed everything to make sure it would be consistent across all games of the series. And the internal test team, tested and tested and tested and many bugs were fixed and probably too many enhancements were added ... but people like to see their ideas get into the game. One of my biggest chores is to say “No No No” because in truth, good ideas never end – and a key role of project management is to manage scope, stop scope creep and even chop scope to ensure we hit our date goals. If we don’t have data goals, the enhancements will never end, and the game will never be released. I’m a project manager in my day job and learned all that stuff over the eons and put it into practice with this game too.
 
-**There have been a number of games on the Spanish Civil War over the years** – but I think ours takes the cake in terms of detail. Hex size 5 (nautical) miles, land units at division, brigade, battalion level with lots of companies running around as well. Individual planes and ships. Much more detailed logistics than AE.
+There have been a number of games on the Spanish Civil War over the years – but I think ours takes the cake in terms of detail. Hex size 5 (nautical) miles, land units at division, brigade, battalion level with lots of companies running around as well. Individual planes and ships. Much more detailed logistics than AE.
 
 And perhaps the most important measure is “it’s fun to play” ... and for me that’s important since unlike WITP/AE where I’ve been studying that war since I knew I existed (my father served in it and my mother lived through it) ... I’m not steeped in the history of the Spanish Civil War ... but the game is fun to play so keeps my interest!
 
 And last but not least, keep in mind, we designed this engine to support a series of games .. We have 50ish titles on our wish list. Not sure how many we’ll be able to do, but now that the engine is “mostly done” (it will never be totally done) we hope to be able to make new titles faster.
 
 So, enjoy War in Spain 1936-39 and stay tuned for more – thanks for reading!!!
-
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **420, 421, 422** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

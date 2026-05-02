@@ -16,7 +16,8 @@ Ground Units Destroyed:
 
 Ships Sunk. The VP’s for sinking a ship depends on the tonnage of the ship:
 
-- For military ships (From CV to TB) 10% of the tonnage. - For civilian or small craft and auxiliary ships 1% of the tonnage.
+- For military ships (From CV to TB) 10% of the tonnage.
+- For civilian or small craft and auxiliary ships 1% of the tonnage.
 
 Barges are worth zero VP’s.
 
@@ -38,7 +39,3 @@ The true score is hidden from all players until the end of the game.
 * [[17.2 Automatic Victory]]
 * [[17.3 Defeat, Surrender and]]
 * [[17.4 Loss Tolerance]]
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **388** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

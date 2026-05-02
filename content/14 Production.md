@@ -18,7 +18,8 @@ These are used for to fuel ships mainly.
 
 - **Coal Mine** – Coal is used to run many production industry types and is also on occasion used to fuel coal fired ships.
 
-- **Oil well** – Produces crude oil. - Repair shipyard – These are dedicated to the repair of ships. Each size unit provides room for 1,000 tons of ships. While accelerating repairs of a ship does not consume more space for the given ship, it does limit the repairs of other ships as if the accelerated ship’s repairs are using more shipyard space.
+- **Oil well** – Produces crude oil.
+- **Repair shipyard** – These are dedicated to the repair of ships. Each size unit provides room for 1,000 tons of ships. While accelerating repairs of a ship does not consume more space for the given ship, it does limit the repairs of other ships as if the accelerated ship’s repairs are using more shipyard space.
 
 - **Train Depot** – General railroad infrastructure. The backbone of overland logistics, these serve the railroad engines and handle the loading and unloading of all kinds of items.  Depending on logistics model chosen, they require a ground unit counterpart that does contain rolling stock. The numbers are to be 1:1. Each rolling stock does require a Train Depot to operate.  Depending on the base, these may run on electric power (free), coal, fuel or oil, or only fuel. Trains that are based in a base can move around goods in a radius of around 60 hexes. The source and destination base can be different than the base holding the trains that will be used, but the local Train Depot of each base is determining the load/unload speed of the cargo operation.
 
@@ -33,7 +34,7 @@ There also is an option to delegate the expansion of economy and aircraft factor
 * [[14.3 Factory Device List]]
 * [[14.4 Shipyard Industry Screen]]
 * [[14.5 General Research Points (GRP)]]
-* [[14.6 Player Alteration to]]
+*[[14.6 Player Alteration to Production Capabilities]]]
 * [[14.7 Industry Management Screen]]
 * [[14.8 Industrial CentersFactories]]
 * [[14.9 Fuel and Refineries]]
@@ -41,7 +42,3 @@ There also is an option to delegate the expansion of economy and aircraft factor
 * [[14.11 Industry]]
 * [[14.12 Capturing Industry]]
 * [[14.13 Ground Units]]
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **332** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].

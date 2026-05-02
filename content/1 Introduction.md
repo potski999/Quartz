@@ -22,7 +22,3 @@ A famous radio message (for Spaniards):
 * [[1.8 Unified Login System]]
 * [[1.9 Game Forums]]
 * [[1.10 Technical Support]]
-
-***
-> [!note]- Original Source Reference
-> Content in this section was sourced from page(s) **17, 18, 19, 20** of the [[War in Spain manual EBOOK.pdf|original PDF EBOOK]].
