@@ -1,6 +1,6 @@
 $dir = "c:\Users\potsk\Documents\Obsidian\Vault\WIS Manual"
 $logPath = "$dir\.Scripts\Frontmatter Update Log.md"
-$logContent = @("# Frontmatter Update Log", "**Date:** $(Get-Date -Format 'yyyy-MM-dd')", "**Action:** Applied 'type: WIS_Manual' and 'draft: false' to all manual files.", "")
+$logContent = @("# Frontmatter Update Log", "**Date:** $(Get-Date -Format 'yyyy-MM-dd')", "**Action:** Applied 'type: WIS_Manual', 'tag: KB_Compile', and 'draft: false' to all manual files.", "")
 
 # Non-manual files to exclude
 $excludedFiles = @(
@@ -39,10 +39,15 @@ foreach ($file in $files) {
             $newFm = $newFm + "`ntype: WIS_Manual"
         }
         
+        # Handle tag: KB_Compile
+        if ($newFm -notmatch "tag:\s*KB_Compile") {
+            $newFm = $newFm + "`ntag: KB_Compile"
+        }
+        
         $newContent = $content -replace [regex]::Escape($fmContent), $newFm
     } else {
         # Create new frontmatter
-        $newContent = "---`ndraft: false`ntype: WIS_Manual`n---`n`n" + $content
+        $newContent = "---`ndraft: false`ntype: WIS_Manual`ntag: KB_Compile`n---`n`n" + $content
     }
 
     if ($newContent -ne $content) {

@@ -1,13 +1,13 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
 ---
 
 # 22 Designers Notes
 
-****Project Lead** – Joe Wilkerson**
+**Project Lead** – Joe Wilkerson
 
-A little about me.  **I was the project lead on the War in the Pacific** – Admiral’s Edition project as well and since that project completed, I wanted to do more games with a new engine. We started on that 3 times but never had enough momentum to push it through to completion. People were getting married, having kids, doing all sorts of distracting things :)
+A little about me.  I was the project lead on the *War in the Pacific – Admiral’s Edition* project as well and since that project completed, I wanted to do more games with a new engine. We started on that 3 times but never had enough momentum to push it through to completion. People were getting married, having kids, doing all sorts of distracting things :)
 
 But then in 2018, Alessandro appeared and started asking me questions – and I answered. After a few months we were talking about working together. He had an “almost finished” clone of AE and while it didn’t include key design elements I wanted for “new game” – it was flexible enough to be way better than twiddling my thumbs!
 

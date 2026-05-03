@@ -1,4 +1,4 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
 ---
@@ -6,23 +6,5 @@ type: WIS_Manual
 # 5 Overview Report for Nations Screen
 
 ### In this Chapter
-- [[5.1 Overview Report for Nations Screen in Detail]]
-	- [[5.1.1 Pick Nation]]
-	- [[5.1.2 Loss of Life Value]]
-	- [[5.1.3 Aircraft Production Etc]]
-	- [[5.1.4 Replace all Ship Captains with Adequate Captains]]
-	- [[5.1.5 Swap Shipboard Pilots with better LBA Pilots]]
-	- [[5.1.6 Load First Turn Setup]]
-	- [[5.1.7 Save As First Turn Setup]]
-	- [[5.1.8 Recall Destroyed LCU’s]]
-	- [[5.1.9 Commerce Action]]
-	- [[5.1.10 Politics]]
-	- [[5.1.11 Pilot Replacements]]
-	- [[5.1.12 Ships Sunk]]
-	- [[5.1.13 Ship Availability]]
-	- [[5.1.14 Group Reinforcement Schedule]]
-	- [[5.1.15 LCU Reinforcement Schedule]]
-	- [[5.1.16 Device Pool]]
-	- [[5.1.17 Research and Development]]
-	- [[5.1.18 Aircraft Production Pool]]
-	- [[5.1.19 Aircraft Lost]]
+[[5.1 Overview Report for Nations Screen in Detail]]
+

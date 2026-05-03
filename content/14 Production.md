@@ -1,8 +1,7 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
 ---
-
 # 14 Production
 
 (This section is optional and only provided for modders)
@@ -31,13 +30,13 @@ There also is an option to delegate the expansion of economy and aircraft factor
 
 ### In this Chapter
 * [[14.1 Production Buttons]]
-* [[14.2 Advanced Economy Model and]]
+* [[14.2 Advanced Economy Model and Production System]]
 * [[14.3 Factory Device List]]
 * [[14.4 Shipyard Industry Screen]]
 * [[14.5 General Research Points (GRP)]]
-*[[14.6 Player Alteration to Production Capabilities]]]
+* [[14.6 Player Alteration to Production Capabilities]]
 * [[14.7 Industry Management Screen]]
-* [[14.8 Industrial CentersFactories]]
+* [[14.8 Industrial Centers]]
 * [[14.9 Fuel and Refineries]]
 * [[14.10 Supply Production]]
 * [[14.11 Industry]]

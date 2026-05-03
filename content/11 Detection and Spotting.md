@@ -1,4 +1,4 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
 ---
@@ -12,5 +12,5 @@ Detecting the enemy is imperative in War in Spain 1936-39. But even more importa
 * [[11.1 Spotting Enemy Units]]
 * [[11.2 Detection Levels (DL’s)]]
 * [[11.3 Recon Flights]]
-* [[11.4 Radar, Detection Levels and]]
-* [[11.5 Information given regarding]]
+* [[11.4 Radar, Detection Levels and Surface Combat]]
+* [[11.5 Enemy LCUs, Bases and Minefields]]

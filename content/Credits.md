@@ -1,4 +1,4 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
 ---
