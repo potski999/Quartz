@@ -1,10 +1,10 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 19 Special Rules
-
 
 ### In this Chapter
 * [[19.1 Flipping Player Side in AI Games]]
@@ -23,12 +23,13 @@ type: WIS_Manual
 * [[19.14 Small Craft and Midget]]
 * [[19.15 ACR and BM Ship Types]]
 * [[19.16 Torpedo Nets]]
-* [[19.17 Air Combat and Air Tactics]]
+* [[19.17 Air Combat and Air Tactics Technology]]
 * [[19.18 Naval Air Attack and Scouting]]
 * [[19.19 Emergency Rescue of Survivors]]
 * [[19.20 Special Forces Airfield Attacks]]
 * [[19.21 Special Forces Training]]
 * [[19.22 Airborne Assaults]]
 * [[19.23 Limited Devices]]
-* [[19.24 V1, V2 and other Long-Range]]
+* [[19.24 V1, V2 and other Long-Range Rockets]]
 * [[19.25 Modding Aircraft Carriers]]
+

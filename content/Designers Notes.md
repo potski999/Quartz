@@ -1,6 +1,7 @@
 ---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 22 Designers Notes
@@ -33,4 +34,6 @@ And perhaps the most important measure is “it’s fun to play” ... and for m
 
 And last but not least, keep in mind, we designed this engine to support a series of games .. We have 50ish titles on our wish list. Not sure how many we’ll be able to do, but now that the engine is “mostly done” (it will never be totally done) we hope to be able to make new titles faster.
 
-So, enjoy War in Spain 1936-39 and stay tuned for more – thanks for reading!!!
+So, enjoy *War in Spain 1936-39* and stay tuned for more – thanks for reading!!!
+
+

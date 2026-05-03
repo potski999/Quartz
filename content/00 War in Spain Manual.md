@@ -2,6 +2,7 @@
 title: War in Spain Manual
 draft: false
 type: WIS_Manual
+tag:
 ---
 
 # *War in Spain 1936-39* Manual
@@ -32,3 +33,4 @@ type: WIS_Manual
 [[24 Historical Stories|24 Piteas’s Historical Stories and Information]]
 [[Credits]]  
 	
+

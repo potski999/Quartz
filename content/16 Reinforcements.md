@@ -1,6 +1,7 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 16 Reinforcements and Replacements
@@ -18,3 +19,4 @@ Disbanding/withdrawing units may come back as if they were a normal reinforcemen
 * [[16.5 Pilot Replacements]]
 * [[16.6 Ground Units]]
 * [[16.7 Arrivals at Enemy Occupied Bases]]
+

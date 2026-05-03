@@ -1,12 +1,13 @@
 ---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 # 14 Production
 
 (This section is optional and only provided for modders)
 
-War in Spain 1936-39 uses a fairly simple production system in the stock scenarios.  By use of the editor, it is possible to create more complex production and economy models. The stock production model uses the following industries from left to right:
+*War in Spain 1936-39* uses a fairly simple production system in the stock scenarios.  By use of the editor, it is possible to create more complex production and economy models. The stock production model uses the following industries from left to right:
 
 - **Manpower** – These produce the workers and soldiers that are required to expand factories.
 
@@ -42,3 +43,4 @@ There also is an option to delegate the expansion of economy and aircraft factor
 * [[14.11 Industry]]
 * [[14.12 Capturing Industry]]
 * [[14.13 Ground Units]]
+

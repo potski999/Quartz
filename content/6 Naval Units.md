@@ -1,12 +1,12 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 6 Naval Units
 
 They took on a wide array of Missions that were as diverse as the tasks they were built for; from the largest battleship to the smallest PT boat, each served a purpose, and each contributed their part to the war effort.
-
 
 ### In this Chapter
 * [[6.1 Task Forces and Ships]]
@@ -28,3 +28,4 @@ They took on a wide array of Missions that were as diverse as the tasks they wer
 * [[6.17 Coastal Guns and Passing Task Forces]]
 * [[6.18 Withdrawal and Return of Ships]]
 * [[6.19 Special Coast Defense Convoy Units]]
+

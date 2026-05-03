@@ -1,6 +1,7 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 7 Air Units
@@ -53,3 +54,4 @@ Air units (also called air generally depict groups) squadrons or similar formati
 * [[7.41 Aircraft Damage]]
 * [[7.42 Aircraft Maintenance]]
 * [[7.43 Setting Search and Attack Arcs]]
+

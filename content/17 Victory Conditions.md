@@ -1,6 +1,7 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 17 Victory Conditions
@@ -40,3 +41,4 @@ The true score is hidden from all players until the end of the game.
 * [[17.2 Automatic Victory]]
 * [[17.3 Defeat, Surrender and]]
 * [[17.4 Loss Tolerance]]
+

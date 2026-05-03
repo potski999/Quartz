@@ -1,6 +1,8 @@
 ---
 draft: false
 type: WIS_Manual
+
+tag: KB_Compile
 ---
 
 # 25 Credits
@@ -104,3 +106,5 @@ ADMIN ASSISTANT Richard Baker
 CUSTOMER SUPPORT STAFF Paulo Costa, John Costello, Ethan Lyons, Joseph Miller, Daniel Tanner
 
 WEB DEVELOPMENT Valery Vidershpan, Andrea Nicola, Fernando Turi, Yurii Shmelev, Stanislav Kolodzinsky
+
+

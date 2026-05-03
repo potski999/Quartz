@@ -18,6 +18,10 @@ $modifiedCount = 0
 
 foreach ($file in $files) {
     $content = Get-Content $file.FullName -Raw -Encoding UTF8
+    # Remove BOM if present
+    if ($content.StartsWith("`uFEFF")) {
+        $content = $content.Substring(1)
+    }
     $newContent = $content
     
     # Check for existing frontmatter
@@ -51,7 +55,11 @@ foreach ($file in $files) {
     }
 
     if ($newContent -ne $content) {
-        Set-Content -Path $file.FullName -Value $newContent -Encoding UTF8 -NoNewline
+        # Ensure file ends with newline
+        if (-not $newContent.EndsWith("`n")) {
+            $newContent = $newContent + "`n"
+        }
+        Set-Content -Path $file.FullName -Value $newContent -Encoding UTF8
         $modifiedCount++
         $logContent += "- [x] Updated: $($file.FullName.Substring($dir.Length + 1))"
     }

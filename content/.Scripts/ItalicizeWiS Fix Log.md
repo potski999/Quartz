@@ -1,0 +1,63 @@
+﻿# Italicize War in Spain Fix Log
+**Date:** 2026-05-03
+**Action:** Fixed double-asterisk issues and applied italics to plain text.
+
+- [x] Updated: 1 Introduction.md
+- [x] Updated: 10 Bases.md
+- [x] Updated: 11 Detection and Spotting.md
+- [x] Updated: 13 Weather.md
+- [x] Updated: 14 Production.md
+- [x] Updated: 2 Getting Started.md
+- [x] Updated: 3 Game Modes and the Sequence of Play.md
+- [x] Updated: 9 Logistics and Supply.md
+- [x] Updated: Credits.md
+- [x] Updated: Designers Notes.md
+- [x] Updated: index.md
+- [x] Updated: 1 Introduction\1.1 New Game Engine.md
+- [x] Updated: 1 Introduction\1.2 Game Manual.md
+- [x] Updated: 1 Introduction\1.3 Editor Manual.md
+- [x] Updated: 11 Detection and Spotting\11.2 Detection Levels (DL’s).md
+- [x] Updated: 12 Command, Political Systems and Diplomacy\12.2 Political System.md
+- [x] Updated: 13 Weather\13.1.1 The Beaufort Scale.md
+- [x] Updated: 14 Production\14.2 Advanced Economy Model and Production System.md
+- [x] Updated: 16 Reinforcements\16.1 Replacements Models.md
+- [x] Updated: 16 Reinforcements\16.4 Air Unit Replacements.md
+- [x] Updated: 17 Victory Conditions\17.1 Victory Levels.md
+- [x] Updated: 2 Getting Started\2.1 Interface.md
+- [x] Updated: 2 Getting Started\2.2 Main Game Menu.md
+- [x] Updated: 2 Getting Started\2.2.2.1 General Game Rule Settings (Preferences).md
+- [x] Updated: 2 Getting Started\2.2.5 Loading a Save Game.md
+- [x] Updated: 20 Notes on Combat\20.2 Naval Combat.md
+- [x] Updated: 21 Appendices\21.4 Ship Types Table.md
+- [x] Updated: 24 Historical Stories\24.2 Joaquín García-Morato Castaños.md
+- [x] Updated: 24 Historical Stories\24.5 Ten famous weapons that debuted in the Spanish Civil War.md
+- [x] Updated: 3 Game Modes and the Sequence of Play\3.4 Key code.md
+- [x] Updated: 4 The Main Map Display\4.2.1.2.1 Movement through Hex Sides.md
+- [x] Updated: 4 The Main Map Display\4.2.2.1 Land Unit Icons.md
+- [x] Updated: 6 Naval Units\6.1 Task Forces and Ships.md
+- [x] Updated: 6 Naval Units\6.1.1 Task Force Symbols.md
+- [x] Updated: 6 Naval Units\6.1.1.1 Task Force Missions.md
+- [x] Updated: 6 Naval Units\6.13 Naval Combat.md
+- [x] Updated: 6 Naval Units\6.13.6.1 Torpedo Supply.md
+- [x] Updated: 6 Naval Units\6.15.7 Mine Types.md
+- [x] Updated: 6 Naval Units\6.2.1 Task Force Formations.md
+- [x] Updated: 6 Naval Units\6.2.3 Task Force Speed.md
+- [x] Updated: 6 Naval Units\6.5 Ship Endurance.md
+- [x] Updated: 6 Naval Units\6.8.1.1 Load Types.md
+- [x] Updated: 7 Air Units\7.15.2 Drop Tank Ranges.md
+- [x] Updated: 7 Air Units\7.15.2.2 Costs of Longer-Range Missions.md
+- [x] Updated: 7 Air Units\7.19 Impact of Altitude on AA Fire.md
+- [x] Updated: 7 Air Units\7.22 The Approach Leg.md
+- [x] Updated: 7 Air Units\7.25 Mission Limitations and Runway Size.md
+- [x] Updated: 7 Air Units\7.29.3 Ferry groups.md
+- [x] Updated: 7 Air Units\7.32 Air Unit Creation.md
+- [x] Updated: 7 Air Units\7.34 Air Combat.md
+- [x] Updated: 7 Air Units\7.7.1 Detailed Information for the Air Unit Screen.md
+- [x] Updated: 8 Ground Units\8.1.1 Headquarters.md
+- [x] Updated: 8 Ground Units\8.1.6 Artillery, Infantry Guns, and Anti-Tank Guns.md
+- [x] Updated: 8 Ground Units\8.1.9 Reserve Units (RSV).md
+- [x] Updated: 8 Ground Units\8.2.12 Unit Organization Screen.md
+- [x] Updated: 8 Ground Units\8.2.8 Unit Information Screen.md
+- [x] Updated: 8 Ground Units\8.4 Ground Unit Movement.md
+- [x] Updated: 8 Ground Units\8.5 Counter Invasion Forces.md
+- [x] Updated: 9 Logistics and Supply\9.2 Logistics Models.md

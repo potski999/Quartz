@@ -10,7 +10,7 @@ This is an online, wiki-style version of the official game manual for *War in Sp
 
 ## Official Manual Reference
 The original manual was published by Matrix Games. You can access the official PDF version directly from their website:
-[War in Spain 1936-39 Manual (Official PDF)](https://ftp.matrixgames.com/pub/WarinSpain1936-39/WarInSpain_Manual_EBOOK.pdf)
+[*War in Spain 1936-39* Manual (Official PDF)](https://ftp.matrixgames.com/pub/WarinSpain1936-39/WarInSpain_Manual_EBOOK.pdf)
 
 ---
 

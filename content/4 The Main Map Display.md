@@ -1,6 +1,7 @@
-﻿---
+---
 draft: false
 type: WIS_Manual
+tag: KB_Compile
 ---
 
 # 4 The Main Map Display
@@ -8,6 +9,7 @@ type: WIS_Manual
 The Main Map Display is composed of:
 
 - **The Menu Bar** – Runs along the top of the screen. See [[4.1 The Menu Bar|section 4.1]].
+
 - **The Tactical Map** – Makes up most of the main screen.  See [[4.2 The Tactical Map|section 4.2]].
 
 - **The Hex Command Display** – Runs below the tactical map and to the left of the jump map. See [[4.3 Hex Information Display|section 4.3]].
@@ -18,8 +20,7 @@ From the Main Map Display the player issues orders to his units, undertakes logi
 
 Pressing the hotkey \[0\] toggles on the Strategic Map which replaces the Main Map Display screen.
 
-**The Strategic Map provides a zoomed** - out overview of the progress of the war. See the Main Map Display below:
-
+The Strategic Map provides a zoomed-out overview of the progress of the war. See the Main Map Display below:
 
 ### In this Chapter
 * [[4.1 The Menu Bar]]
@@ -27,3 +28,4 @@ Pressing the hotkey \[0\] toggles on the Strategic Map which replaces the Main M
 * [[4.3 Hex Information Display]]
 * [[4.4 Jump Map]]
 * [[4.5 Mouse Over]]
+

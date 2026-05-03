@@ -1,6 +1,8 @@
 ---
 draft: false
 type: WIS_Manual
+
+tag: KB_Compile
 ---
 
 # 23 References
@@ -22,3 +24,5 @@ type: WIS_Manual
 *Armas y uniformes de la Guerra Civil Española*, Lucas Molina Franco & J.M. Manrique Garcia
 *La campaña de Teruel*, Francisco Javier Aguirre Azaña
 *Especiales de la Guerra Civil (Madrid, Vizcaya, Asturias, Belchite, Valencia, Ebro)*, ed. Desperta Ferro
+
+
