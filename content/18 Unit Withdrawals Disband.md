@@ -2,7 +2,7 @@
 title: 18 Unit Withdrawals/Disband
 draft: false
 type: WIS_Manual
-tag: KB_Compile
+ai_search: true
 ---
 # 18 Unit Withdrawals/Disband
 

@@ -43,15 +43,15 @@ foreach ($file in $files) {
             $newFm = $newFm + "`ntype: WIS_Manual"
         }
         
-        # Handle tag: KB_Compile
-        if ($newFm -notmatch "tag:\s*KB_Compile") {
-            $newFm = $newFm + "`ntag: KB_Compile"
+        # Handle ai_search: true
+        if ($newFm -notmatch "ai_search:") {
+            $newFm = $newFm + "`nai_search: true"
         }
         
         $newContent = $content -replace [regex]::Escape($fmContent), $newFm
     } else {
         # Create new frontmatter
-        $newContent = "---`ndraft: false`ntype: WIS_Manual`ntag: KB_Compile`n---`n`n" + $content
+        $newContent = "---`ndraft: false`ntype: WIS_Manual`nai_search: true`n---`n`n" + $content
     }
 
     if ($newContent -ne $content) {

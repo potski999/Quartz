@@ -2,7 +2,7 @@
 draft: false
 type: WIS_Manual
 
-tag: KB_Compile
+ai_search: true
 ---
 
 # 25 Credits
