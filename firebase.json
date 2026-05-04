@@ -2,6 +2,7 @@
   "hosting": {
     "site": "wis-wiki-manual",
     "public": "public",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
