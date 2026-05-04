@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "wis-wiki-manual",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
