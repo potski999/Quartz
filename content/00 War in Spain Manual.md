@@ -5,7 +5,7 @@ type: WIS_Manual
 tag:
 ---
 
-# *War in Spain 1936-39* Manual
+# War in Spain *1936-39* Manual
 
 [[1 Introduction]]  
 [[2 Getting Started]]  
@@ -18,7 +18,7 @@ tag:
 [[9 Logistics and Supply]]  
 [[10 Bases]]  
 [[11 Detection and Spotting]]  
-[[12 Command, Political Systems and Diplomacy]]
+[[12 Command, Political Systems, Diplomacy]]  
 [[13 Weather]]  
 [[14 Production]]  
 [[15 Ship Upgrades, Conversions and Repairs]]  
@@ -30,7 +30,7 @@ tag:
 [[21 Appendices]]  
 [[Designers Notes]]  
 [[References]]  
-[[24 Historical Stories|24 Piteas’s Historical Stories and Information]]
+[[24 Historical Stories|24 Piteas’s Historical Stories & Information]]  
 [[Credits]]  
 	
 

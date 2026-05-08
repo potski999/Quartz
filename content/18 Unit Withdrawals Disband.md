@@ -1,5 +1,5 @@
 ---
-title: 18 Unit Withdrawals/Disband
+title: 18 Unit Withdrawals Disband
 draft: false
 type: WIS_Manual
 ai_search: true

@@ -1,5 +1,5 @@
 ﻿# 1. Set your Quartz folder path
-$quartzPath = "C:\Users\potsk\Documents\GitHub\quartz"
+$quartzPath = "C:\Users\potsk\Documents\GitHub\wis-wiki-manual"
 Set-Location -Path $quartzPath
 
 # 2. Create a clean Timestamp (e.g., 2024-05-20 14:30)

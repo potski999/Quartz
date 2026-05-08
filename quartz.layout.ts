@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/potski999/wis-wiki-manual",
     },
   }),
 }
@@ -34,13 +33,10 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({folderClickBehavior: "link", // Defaults to "collapse"}),
-    //Component.Explorer({folderClickBehavior: "collapse", // Defaults to "collapse"
-    }),
+    Component.Explorer({folderClickBehavior: "link"}),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),

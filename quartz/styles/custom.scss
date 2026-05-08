@@ -1,3 +1,40 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Custom styles to approximate WIS design system
+
+// Remove dark mode preference from localStorage on load
+// (dark mode is disabled in layout)
+html[data-saved-theme="dark"] {
+  --light: #fafafa;
+  --lightgray: #e5e5e5;
+  --gray: #999999;
+  --darkgray: #444444;
+  --dark: #222222;
+}
+
+// Ensure monospace font for code-like elements
+code, pre, .code {
+  font-family: "JetBrains Mono", "IBM Plex Mono", ui-monospace, monospace;
+}
+
+// Tighter spacing matching WIS aesthetic
+article {
+  max-width: 800px;
+}
+
+// Subtle link styling
+a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease;
+}
+
+a:hover {
+  border-bottom-color: var(--quartz-color-secondary);
+}
+
+// Clean up callouts
+.callout {
+  border-left: 3px solid var(--quartz-color-secondary);
+  background: var(--quartz-color-highlight);
+}
