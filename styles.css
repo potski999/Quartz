@@ -156,8 +156,15 @@ nav .container {
   line-height: 1.7;
 }
 
-.hero-content p:first-of-type {
+.hero-content h1 .accent,
+.hero-content p .accent {
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.hero-content p .accent-warm {
   color: var(--accent-warm);
+  font-variant-numeric: tabular-nums;
 }
 
 .hero-content p strong, .hero strong {
@@ -172,6 +179,15 @@ nav .container {
   list-style: none;
   padding: 0;
   margin-bottom: 24px;
+}
+
+.hero-content p a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.hero-content p a:hover {
+  color: var(--accent-warm);
 }
 
 .hero-stats {
