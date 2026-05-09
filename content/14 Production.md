@@ -13,13 +13,12 @@ ai_search: true
 
 - **Light Industry** – These commonly produce “Supplies” that are used as consumables in upkeep of troops, construction cost and other situations. Supplies are used for all kinds of ammo and land unit fuel. Beans and bullets.
 
-- **Refinery** – Turning crude oil into various usable types of fuel.
-
-These are used for to fuel ships mainly.
+- **Refinery** – Turning crude oil into various usable types of fuel.  These are used for to fuel ships mainly.
 
 - **Coal Mine** – Coal is used to run many production industry types and is also on occasion used to fuel coal fired ships.
 
 - **Oil well** – Produces crude oil.
+
 - **Repair shipyard** – These are dedicated to the repair of ships. Each size unit provides room for 1,000 tons of ships. While accelerating repairs of a ship does not consume more space for the given ship, it does limit the repairs of other ships as if the accelerated ship’s repairs are using more shipyard space.
 
 - **Train Depot** – General railroad infrastructure. The backbone of overland logistics, these serve the railroad engines and handle the loading and unloading of all kinds of items.  Depending on logistics model chosen, they require a ground unit counterpart that does contain rolling stock. The numbers are to be 1:1. Each rolling stock does require a Train Depot to operate.  Depending on the base, these may run on electric power (free), coal, fuel or oil, or only fuel. Trains that are based in a base can move around goods in a radius of around 60 hexes. The source and destination base can be different than the base holding the trains that will be used, but the local Train Depot of each base is determining the load/unload speed of the cargo operation.

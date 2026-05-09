@@ -9,13 +9,13 @@ ai_search: true
 
 Joint Warfare Simulations Development Team for *War in Spain 1936-39*
 
-**PROJECT LEAD Joe Wilkerson** – jwilkerson
+PROJECT LEAD Joe Wilkerson – jwilkerson
 
-**TECHNICAL TEAM LEAD Alessandro Seibol** – Alessandro S
+TECHNICAL TEAM LEAD Alessandro Seibol – Alessandro S
 
 TECHNICAL TEAM MEMBER Bill Olson
 
-**GAME DESIGNER Alex Carneiro** – Piteas
+GAME DESIGNER Alex Carneiro – Piteas
 
 GAME DESIGNER EMERITUS Dali Vostrez
 

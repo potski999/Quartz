@@ -19,9 +19,7 @@ Ground Units Destroyed:
 Ships Sunk. The VP’s for sinking a ship depends on the tonnage of the ship:
 
 - For military ships (From CV to TB) 10% of the tonnage.
-- For civilian or small craft and auxiliary ships 1% of the tonnage.
-
-Barges are worth zero VP’s.
+- For civilian or small craft and auxiliary ships 1% of the tonnage.  Barges are worth zero VP’s.
 
 >Note: Damage to ships causes “Loss of Life”.  If you scuttle a damaged ship, you will lose the VP but save the lives of the crew.
 
@@ -33,8 +31,7 @@ A couple more points:
 
 The basic VP percentage and final VP value for each side are displayed for each base when the mouse cursor is placed over a base (the basic VP percentage value is in parenthesis).
 
-The true score is hidden from all players until the end of the game.
-
+**The true score is hidden from all players until the end of the game.**
 
 ### In this Chapter
 * [[17.1 Victory Levels]]
