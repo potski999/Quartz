@@ -1,4 +1,17 @@
-@use "./base.scss";
+﻿@use "./base.scss";
+
+// WIS-Wiki CSS variable aliases
+:root {
+  --bg: var(--light);
+  --fg: var(--darkgray);
+  --muted: var(--gray);
+  --border: var(--lightgray);
+  --accent: var(--secondary);
+  --accent-warm: var(--tertiary);
+  --font-mono: var(--codeFont);
+  --font-body: var(--bodyFont);
+  --font-display: var(--bodyFont);
+}
 
 // Custom styles to approximate WIS design system
 
@@ -30,11 +43,45 @@ a {
 }
 
 a:hover {
-  border-bottom-color: var(--quartz-color-secondary);
+  border-bottom-color: var(--secondary);
+}
+
+// Nullify header wrapper margin when containing fixed navbar
+header:has(.wis-nav) {
+  margin: 0 !important;
+  padding: 0;
+  display: block;
 }
 
 // Clean up callouts
 .callout {
-  border-left: 3px solid var(--quartz-color-secondary);
-  background: var(--quartz-color-highlight);
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
 }
+
+
+// Reduce page-header margin to account for fixed navbar
+#quartz-body .page-header {
+  margin-top: 2rem;
+}
+
+// Fixed navbar compensation
+body {
+  padding-top: 56px;
+}
+
+#quartz-body .sidebar {
+  top: 56px;
+}
+
+// Reduce Explorer sidebar font size
+.explorer {
+  font-size: 0.8rem;
+}
+
+.folder-container div > a,
+.folder-container div > button span {
+  font-size: 0.85rem;
+}
+
+

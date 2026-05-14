@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "google-gemini-file-search": {
+      "source": "secondsky/claude-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/google-gemini-file-search/skills/google-gemini-file-search/SKILL.md",
+      "computedHash": "2cd7b1955d7cb43a559b57f135c5967b0dbc4e342a0190a40aff69490573673f"
+    },
+    "system-design": {
+      "source": "anthropics/knowledge-work-plugins",
+      "sourceType": "github",
+      "skillPath": "engineering/skills/system-design/SKILL.md",
+      "computedHash": "9b334dd1bc654fda2ed014680e1910f33fcb4b0daa6fee2b91ef50156f401b81"
+    },
+    "to-prd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/to-prd/SKILL.md",
+      "computedHash": "a80acb8760af6521a37ea4f079e617712fcaa800f8a766e247f815c5dabb20d2"
+    }
+  }
+}

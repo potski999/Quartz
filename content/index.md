@@ -1,5 +1,8 @@
 ---
 title: War in Spain 1936-39 Manual
+ai_search: false
+type: WIS_Manual
+modified:
 ---
 
 

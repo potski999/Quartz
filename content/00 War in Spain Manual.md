@@ -2,7 +2,7 @@
 title: War in Spain Manual
 draft: false
 type: WIS_Manual
-tag:
+ai_search: false
 ---
 
 # War in Spain *1936-39* Manual

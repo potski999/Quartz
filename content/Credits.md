@@ -1,8 +1,7 @@
 ---
 draft: false
 type: WIS_Manual
-
-ai_search: true
+ai_search: false
 ---
 
 # 25 Credits

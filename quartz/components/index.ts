@@ -1,4 +1,4 @@
-import Content from "./pages/Content"
+﻿import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"
 import NotFound from "./pages/404"
@@ -16,6 +16,8 @@ import Graph from "./Graph"
 import Backlinks from "./Backlinks"
 import Search from "./Search"
 import Footer from "./Footer"
+import NavBar from "./NavBar"
+import WikiFooter from "./WikiFooter"
 import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
@@ -42,6 +44,8 @@ export {
   Backlinks,
   Search,
   Footer,
+  NavBar,
+  WikiFooter,
   DesktopOnly,
   MobileOnly,
   RecentNotes,
@@ -51,3 +55,4 @@ export {
   Flex,
   ConditionalRender,
 }
+

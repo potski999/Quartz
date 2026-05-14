@@ -1,0 +1,7 @@
+OK, to clarify it does seem that I already have two AI keys.   Only one visible in Google AI Studio, but in the Cloud Console I now see there is a key described as:
+"Browser key (auto created by Firebase)" and this has been limited to access only certain APIs and it does not include Google Gemini.  I have renamed it as WIS-Wiki-Firebase
+
+Then I had a "Gemini API Key" which was restricted to be used just for Gemini API.  I have renamed that as WIS-Wiki-Search and that is the key you were already given in the env and is working, with the free-tier limitations.  Does the name need to be changed in env?  Certainly it should be referred to by that name in the docs.
+
+It can be further restricted in the console to work only from certain websites/IP addresses.   
+If it is restricted to run on the Firebase server only then I would not be able to run from my machine for testing. Yet maybe that is OK once everything is set up properly, that even the admin cannot run the search outside of the server app.  What is normal practice here?  I think it would probably be that the admin would login to the server and have special privileges there, not the ability to by-pass the system from their local machine.

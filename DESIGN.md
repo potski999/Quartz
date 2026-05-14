@@ -1,5 +1,8 @@
 # War In Spain — Design System
 
+> **Canonical source:** The master design system lives in the [wis-wiki](https://github.com/potski999/wis-wiki) repo.
+> This file covers project-specific layout and Quartz integration only.
+
 > Category: Historical Strategy / Wargame Reference
 > Terminal/developer monospace aesthetic with cool oklch palette. Compact, precise, code-editor feel.
 
@@ -146,7 +149,7 @@ backdrop-filter: blur(12px)
 border-bottom: 1px solid var(--border)
 height: 56px
 ```
-- **Logo** (`.logo`): 13px mono, weight 600, letter-spacing 0.5px. Wrapped in `<a href="index.html">`. `WIS` uses `--fg` (dark), `<span>Wiki</span>` uses `--accent` (green). No underline, pointer cursor
+- **Logo** (`.logo`): 13px mono, weight 600, letter-spacing 0.5px. Wrapped in `<a href="https://wis-wiki.web.app/">`. `WIS` uses `--fg` (dark), `<span>Wiki</span>` uses `--accent` (green). No underline, pointer cursor
 - **Nav links** (`.nav-links`): flex row, gap 32px, 12px mono uppercase, `--muted` color → `--accent` on hover
 - **Nav right**: No CTA button. Only nav links appear in the nav bar. Action buttons live in the hero section
 
@@ -354,6 +357,49 @@ Single breakpoint at **768px** (`@media (max-width: 768px)`):
 - Container padding remains `0 24px` at all sizes
 - No touch-target adjustments — design is desktop-first with basic mobile collapse
 
+## 8. Quartz Layout Integration
+
+The Quartz-powered Manual site (`wis-wiki-manual.web.app`) is customised to match the WIS Wiki design system and enable seamless navigation between subsites.
+
+### Navigation Elements
+
+| Element | Location | Text | Links to |
+|---|---|---|---|
+| Navbar logo | Top left (fixed) | WIS Wiki | `https://wis-wiki.web.app/` |
+| Navbar nav | Top right | RESOURCES, VIDEOS, HISTORY, SCENARIOS, MANUAL | Main site pages / Manual root |
+| Quartz sidebar | Left panel | WIS Manual | `https://wis-wiki-manual.web.app/` |
+| Footer | Bottom | Manual, Videos, Forum | Respective URLs |
+
+The navbar and footer are Quartz components (`NavBar.tsx`, `WikiFooter.tsx`) in `quartz/components/`. They render identical HTML to the WIS-Wiki-Web navbar/footer and are SPA-aware, re-rendered on each navigation so the active MANUAL link stays highlighted.
+
+### CSS Variable Aliases
+
+Quartz uses its own CSS variable naming. WIS-Wiki names are aliased in `quartz/styles/custom.scss`:
+
+| WIS-Wiki Name | Quartz Source |
+|---|---|
+| `--bg` | `--light` |
+| `--fg` | `--darkgray` |
+| `--muted` | `--gray` |
+| `--border` | `--lightgray` |
+| `--accent` | `--secondary` |
+| `--accent-warm` | `--tertiary` |
+| `--font-mono` | `--codeFont` |
+
+### Layout Changes (`quartz.layout.ts`)
+
+- Added `NavBar()` to the `header` slot (fixed position at top of page)
+- Replaced `Component.Footer()` with `WikiFooter()`
+- Removed `Component.ArticleTitle()` from `beforeBody` (page titles removed from content area)
+- Sidebar title renamed from `WIS Wiki` to `WIS Manual`, linking to `https://wis-wiki-manual.web.app/`
+
+### Explorer Font Size
+
+Reduced in `quartz/styles/custom.scss` for a more compact sidebar:
+- Explorer container: `0.8rem`
+- Folder/file entries: `0.85rem`
+
+
 ## 7. Agent Prompt Guide
 
 ### Quick Reference
@@ -371,7 +417,7 @@ Single breakpoint at **768px** (`@media (max-width: 768px)`):
 - **Grid trick**: `gap: 1px; background: var(--border)` on container, `--surface` on cells (used in factions-grid)
 - **Breakpoint**: `768px`
 - **Buttons**: `btn-sm-dark`, `btn-sm-green`, `btn-lg-dark`, `btn-lg-green` — composable size + color
-- **Logo**: `WIS` (dark) + `<span>Wiki</span>` (green), clickable link to `index.html`
+- **Logo**: `WIS` (dark) + `<span>Wiki</span>` (green), clickable link to `https://wis-wiki.web.app/`
 
 ### Example Prompts
 
@@ -405,4 +451,4 @@ Single breakpoint at **768px** (`@media (max-width: 768px)`):
 9. **`font-variant-numeric: tabular-nums`** — used on year/stat values for alignment
 10. **Weight 600 for emphasis** — headings, stats, labels use 600; everything else is 400
 11. **Composable buttons** — 4 classes: `btn-sm-dark`, `btn-sm-green`, `btn-lg-dark`, `btn-lg-green`. Size + color are fixed together, not separate modifiers
-12. **Clickable logo** — `WIS` (dark) + `Wiki` (green) wraps `<a href="index.html">` on every page
+12. **Clickable logo** — `WIS` (dark) + `Wiki` (green) wraps `<a href="https://wis-wiki.web.app/">` on every page

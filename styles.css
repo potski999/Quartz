@@ -12,7 +12,6 @@
   --border:  oklch(90% 0.008 240);
   --accent:  oklch(58% 0.16 145);
   --accent-warm: oklch(58% 0.16 35);
-  --coral: oklch(65% 0.20 30);
 
   --font-display: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif;
   --font-body:    -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', system-ui, sans-serif;
@@ -39,6 +38,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* --- Utility --- */
+.accent { color: var(--accent); }
+.accent-warm { color: var(--accent-warm); }
+
+/* --- Layout --- */
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -156,17 +160,6 @@ nav .container {
   line-height: 1.7;
 }
 
-.hero-content h1 .accent,
-.hero-content p .accent {
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
-}
-
-.hero-content p .accent-warm {
-  color: var(--accent-warm);
-  font-variant-numeric: tabular-nums;
-}
-
 .hero-content p strong, .hero strong {
   font-weight: 600;
 }
@@ -181,12 +174,19 @@ nav .container {
   margin-bottom: 24px;
 }
 
-.hero-content p a {
+.hero-content li::before {
+  content: '\2192';
+  color: var(--accent);
+  font-family: var(--font-mono);
+  margin-right: 8px;
+}
+
+.hero-content p a, .card-body a {
   color: var(--accent);
   text-decoration: none;
 }
 
-.hero-content p a:hover {
+.hero-content p a:hover, .card-body a:hover {
   color: var(--accent-warm);
 }
 
@@ -256,14 +256,14 @@ section {
   color: var(--muted);
 }
 
-/* --- Resources Grid (extensible auto-fill) --- */
-.resources-grid {
+/* --- Cards --- */
+.card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 16px;
 }
 
-.resource-card {
+.card {
   background: var(--surface);
   border: 1px solid var(--border);
   padding: 24px;
@@ -273,66 +273,82 @@ section {
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
 
-.resource-card:hover {
+.card:hover {
   border-color: var(--accent);
   box-shadow: 0 0 0 1px var(--accent);
 }
 
-.resource-card h3 {
+.card-title {
   font-family: var(--font-mono);
   font-size: 14px;
   font-weight: 600;
   margin-bottom: 8px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 8px;
 }
 
-.resource-card h3::before {
+.card-title.with-arrow::before {
   content: '\2192';
   color: var(--accent);
   font-family: var(--font-mono);
+  flex-shrink: 0;
 }
 
-.resource-card p {
+.card-title.lg {
+  font-size: 18px;
+}
+
+/* --- Card Large --- */
+.card.lg {
+  padding: 32px;
+}
+
+.card-subtitle {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--accent-warm);
+  letter-spacing: 0.3px;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.card-body {
   font-family: var(--font-mono);
   font-size: 12px;
   color: var(--muted);
   line-height: 1.6;
 }
 
-.resource-card.placeholder {
+.card-body p {
+  margin-bottom: 12px;
+}
+
+.card-body p:last-child {
+  margin-bottom: 0;
+}
+
+.card.placeholder {
   opacity: 0.5;
   cursor: default;
 }
 
-.resource-card.placeholder:hover {
+.card.placeholder:hover {
   border-color: var(--border);
   box-shadow: none;
 }
 
-/* --- Factions --- */
-.factions-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1px;
-  background: var(--border);
-  border: 1px solid var(--border);
+.card.no-hover {
+  cursor: default;
 }
 
-.faction {
-  background: var(--surface);
-  padding: 32px;
+.card.no-hover:hover {
+  border-color: var(--border);
+  box-shadow: none;
 }
 
-.faction-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-}
-
-.faction-icon {
+.card-icon {
   width: 40px;
   height: 40px;
   background: var(--bg);
@@ -342,35 +358,44 @@ section {
   justify-content: center;
   font-family: var(--font-mono);
   font-size: 18px;
+  flex-shrink: 0;
 }
 
-.faction h3 {
-  font-family: var(--font-mono);
-  font-size: 18px;
-  font-weight: 600;
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 16px;
 }
 
-.faction .subtitle {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--muted);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+.card-header .card-title {
+  margin-bottom: 4px;
 }
 
-.faction p {
-  font-family: var(--font-mono);
-  font-size: 13px;
-  color: var(--muted);
-  line-height: 1.6;
+.card-header .card-subtitle {
+  margin-bottom: 0;
 }
 
-.faction-units {
+.card-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
   font-family: var(--font-mono);
   font-size: 11px;
 }
 
-.faction-units strong {
+.card-list li {
+  padding: 4px 0;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-list li:last-child {
+  border-bottom: none;
+}
+
+.card-list strong {
   color: var(--fg);
   text-transform: uppercase;
   letter-spacing: 0.5px;
@@ -379,70 +404,25 @@ section {
   margin-bottom: 8px;
 }
 
-.faction-units ul {
-  list-style: none;
-  color: var(--muted);
-}
-
-.faction-units li {
-  padding: 4px 0;
-  border-bottom: 1px solid var(--border);
-  display: flex;
-  justify-content: space-between;
-}
-
-.faction-units li:last-child {
-  border-bottom: none;
-}
-
-.faction-units .count {
-  color: var(--accent);
-  font-variant-numeric: tabular-nums;
-}
-
-.hero p {
-  color: var(--fg);
-}
-
-.hero li {
-  color: var(--fg);
-}
-
-.hero ul, .key-mechanics {
-  font-family: var(--font-mono);
-  font-size: 13px;
-  color: var(--fg);
-  line-height: 1.8;
-  list-style: none;
-  padding: 0;
-  margin-bottom: 24px;
-}
-.history-content {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 48px;
-}
-
-.history-text p {
-  font-family: var(--font-mono);
-  font-size: 14px;
-  line-height: 1.7;
-  color: var(--fg);
+.card-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
   margin-bottom: 16px;
+  border: 1px solid var(--border);
 }
 
-.scenarios-list {
-  font-family: var(--font-mono);
-  font-size: 13px;
-  color: var(--fg);
-  line-height: 1.8;
-  margin-top: 16px;
+/* --- Large Grid (2-col, no hover) --- */
+.grid-lg {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
 }
 
-.scenarios-list strong {
-  color: var(--fg);
-}
-
+/* --- Timeline --- */
 .timeline {
   border-left: 2px solid var(--accent);
   padding-left: 20px;
@@ -597,40 +577,6 @@ section {
   margin-top: 24px;
 }
 
-/* --- Latest Video --- */
-.latest-video {
-  margin-top: 16px;
-}
-
-.latest-video-player {
-  aspect-ratio: 16/10;
-  border: 1px solid var(--border);
-  overflow: hidden;
-  background: var(--surface);
-}
-
-.latest-video-player iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-
-.video-card h3 {
-  justify-content: flex-start;
-}
-
-.scenario-date {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--coral);
-  font-weight: 600;
-  letter-spacing: 0.3px;
-}
-
-.scenario-card .resource-card p {
-  color: var(--muted);
-}
-
 /* --- Footer --- */
 footer {
   padding: 32px 0;
@@ -679,15 +625,11 @@ footer .container {
     font-size: 28px;
   }
 
-  .resources-grid {
+  .card-grid {
     grid-template-columns: 1fr;
   }
 
-  .factions-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .history-content {
+  .grid-lg {
     grid-template-columns: 1fr;
   }
 

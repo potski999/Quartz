@@ -1,4 +1,4 @@
-import { QuartzConfig } from "./quartz/cfg"
+﻿import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "WIS Wiki",
+    pageTitle: "WIS Manual",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -95,3 +95,4 @@ const config: QuartzConfig = {
 }
 
 export default config
+
